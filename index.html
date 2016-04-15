@@ -13,7 +13,7 @@
 	<link rel="stylesheet" href="css/normalize.css"> <!--boilerplate-->
 	<link rel="stylesheet" href="css/main.css"> <!--boilerplate-->
 	<link rel="stylesheet" href="css/styles.css"> <!--site specific-->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 	<script src="js/vendor/modernizr-2.8.3.min.js"</script>
 
 	<!-- Google Analytics -->
@@ -45,6 +45,8 @@
 					<li><a href="/music/">Music</a></li>
 					<li><a href="/games/">Games</a></li>
 					<li><a href="/art/">Art</a></li>
+					<li><a href="/politics/">Politics</a></li>
+					<li><a href="/writing/">Writing</a></li>
 					<li><a href="/me/">Me</a></li>
 				</ul>
 			</nav>
@@ -77,6 +79,12 @@
 			<section>
 				<ul class="links">
 					<li>
+						<a href="#">
+							<h3>Home</h3>
+							<p>chaos in divide</p>
+						</a>
+					</li>
+					<li>
 						<a href="/music/">
 							<h3>Music</h3>
 							<p>seizer beats</p>
@@ -91,13 +99,25 @@
 					<li>
 						<a href="/art/">
 							<h3>Art</h3>
-							<p>Visual inspiration</p>
+							<p>visual inspiration</p>
+						</a>
+					</li>
+					<li>
+						<a href="politics">
+							<h3>Politics</h3>
+							<p>neotribalist anarchy</p>
+						</a>
+					</li>
+					<li>
+						<a href="/writing/">
+							<h3>Writing</h3>
+							<p>rambling incubus</p>
 						</a>
 					</li>
 					<li>
 						<a href="/me/">
 							<h3>Me</h3>
-							<p>Rambling incubus</p>
+							<p>the dude</p>
 						</a>
 					</li>
 				</ul>
@@ -106,6 +126,37 @@
 
 		<!-- main -->
 		<div id="main">
+
+			<!-- post -->
+			<article class="post">
+				<header id="HELLO2">
+					<div class="title">
+						<h2><a href="#HELLO2">HELLO AGAIN</a></h2>
+						<p>I guess I made a website</p>
+					</div>
+					<div class="meta">
+						<time class="published" datetime="2016-04-07">April 15, 2016</time>
+						<a href="../me/" class="author"><span class="name">McWenker</span><img src="/img/wenk.png" alt=""/>
+						</a>
+					</div>
+				</header>
+				<a href="#HELLO" class="image featured"><img src="/img/041516.jpg" alt=""/></a>
+				<p>Welp, it looks like I've done it. I actually made a website that doesn't look like garbage. Props to the dudes at <a href="https://html5boilerplate.com" target="_blank">HTML5 Boilerplate</a> for making the beginning easy, thanks to my job at <a href="http://www.tattoonow.com" target="_blank">TattooNOW</a> for giving me a trial-by-fire in stylesheets.</p>
+				<p>I've still gotta figure out some kind of content management, cause right now I'm updating all of this content manually in Sublime Text, which leaves a lot to be desired when I'm trying to have all these pages working together. I'm looking into Jekyll to work with my GitHub Page (definitely worth checking out both of these if you're interested in building a website) but I've been unmotivated to navigate the workaround for it on Windows. One day.</p>
+				<p>Been working on some music lately, among other things. You can check all of that in <a href="/music/index.html#FIRST" target="_blank">my post about it</a>, or on <a href="http://www.soundcloud.com/seizer" target="_blank">my SoundCloud</a>. I'm looking to make some posts about everything else this or next week, just to actually populate this page and see what is and isn't working.</p>
+				<p>Anywho, thanks for checking this place out! Hope you'll come back to visit, because it's only going to get weirder.</p>
+				<footer>
+					<ul class="actions">
+						<li><a href="#" class="button big">click me</a></li>
+					</ul>
+					<ul class="stats">
+						<!-- post type -->
+						<li><a href="#">General</a></li>
+						<li><a href="#" class="icon heart">#</a></li>
+						<li><a href="#" class="icon comment">#</a></li>
+					</ul>
+				</footer>
+			</article>
 
 			<!-- post -->
 			<article class="post">
@@ -125,7 +176,7 @@
 				<p>Stay tuned!</p>
 				<footer>
 					<ul class="actions">
-						<li><a href="#" class="button big">Continue Reading</a></li>
+						<li><a href="#" class="button big">Click me</a></li>
 					</ul>
 					<ul class="stats">
 						<!-- post type -->
@@ -138,8 +189,7 @@
 			<!-- pagination -->
 			<ul class="actions pagination">
 				<li><a href="" class="disabled button big previous">Previous Page</a></li>
-				<li><a href="#" class="button big next">
-				Next Page</a></li>
+				<li><a href="#" class="button big next">Next Page</a></li>
 			</ul>
 		</div>
 
@@ -162,11 +212,21 @@
 					<!-- mini post -->
 						<article class="mini-post">
 							<header>
-								<h3><a href="#HELLO">HELLO</a></h3>
-								<time class="published" datetime="2016-04-07">April 7, 2016</time>
-								<a href="/me/" class="author"><img src="/img/wenk.png" alt=""/></a>
+								<h3><a href="../index.html#HELLO2">HELLO AGAIN</a></h3>
+								<time class="published" datetime="2016-04-15">April 15, 2016</time>
+								<a href="#" class="author"><img src="../img/wenk.png" alt=""/></a>
 							</header>
-							<a href="#HELLO" class="image"><img src="/img/040716.jpg" alt=""/></a>
+							<a href="#HELLO2" class="image"><img src="../img/041516.jpg" alt=""/></a>
+						</article>
+
+					<!-- mini post -->
+						<article class="mini-post">
+							<header>
+								<h3><a href="../index.html#HELLO">HELLO</a></h3>
+								<time class="published" datetime="2016-04-07">April 7, 2016</time>
+								<a href="#" class="author"><img src="../img/wenk.png" alt=""/></a>
+							</header>
+							<a href="#HELLO" class="image"><img src="../img/040716.jpg" alt=""/></a>
 						</article>
 				</div>
 			</section>
@@ -177,10 +237,28 @@
 					<li>
 						<article>
 							<header>
-								<h3><a href="#HELLO">HELLO I guess I'm making a website</a></h3>
+								<h3><a href="../index.html#HELLO2">HELLO AGAIN guess I made a website</a></h3>
+								<time class="published" datetime="2016-04-15">April 15, 2016</time>
+							</header>
+							<a href="#HELLO2" class="image"><img src="../img/041516.jpg" alt=""/></a>
+						</article>
+					</li>
+					<li>
+						<article>
+							<header>
+								<h3><a href="../index.html#HELLO2">Obligatory first post</a></h3>
+								<time class="published" datetime="2016-04-14">April 14, 2016</time>
+							</header>
+							<a href="music/index.html#FIRST" class="image"><img src="../img/szr.jpg" alt=""/></a>
+						</article>
+					</li>
+					<li>
+						<article>
+							<header>
+								<h3><a href="../index.html#HELLO">HELLO I guess I'm making a website</a></h3>
 								<time class="published" datetime="2016-04-07">April 7, 2016</time>
 							</header>
-							<a href="#HELLO" class="image"><img src="/img/040716.jpg" alt=""/></a>
+							<a href="#HELLO" class="image"><img src="../img/040716.jpg" alt=""/></a>
 						</article>
 					</li>
 				</ul>
