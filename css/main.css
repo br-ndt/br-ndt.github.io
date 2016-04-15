@@ -2647,6 +2647,14 @@
 				transform: scale(1.05);
 			}
 
+		.post .bio {
+			text-align: center;
+		}
+
+		.post .bio p {
+			margin: 0 auto;
+		}
+
 		.post > footer {
 			display: -moz-flex;
 			display: -webkit-flex;
