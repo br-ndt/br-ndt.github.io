@@ -13,6 +13,7 @@ h1, h2 {
 
 .sched {
 	margin-bottom: 40px;
+	overflow: hidden;
 }
 
 .left-sched {
@@ -55,8 +56,13 @@ h1, h2 {
 
 .footer-sub {
 	display: inline-block;
-	width: 33%;
+	width: 30%;
 	vertical-align: top;
+	margin-right: 4%;
+}
+
+.footer-3.footer-sub {
+	margin-right: 0;
 }
 
 .footer-sub p {
