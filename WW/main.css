@@ -1,10 +1,15 @@
 body {
 	background-image: url('backdrop.png');
 	padding: 5px 10px 5px 10px;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 h1, h2 {
 	margin: 0;
+}
+
+h1 {
+	font-family: 'Indie Flower';
 }
 
 .header img, .header div {
@@ -12,7 +17,7 @@ h1, h2 {
 }
 
 .sched {
-	margin-bottom: 40px;
+	margin-bottom: 15px;
 	overflow: hidden;
 }
 
@@ -21,6 +26,7 @@ h1, h2 {
 	position: relative;
 	float: left;
 	margin-right: 5px;
+	height: 295px;
 }
 
 .artist-link, .artist-link img {
@@ -34,7 +40,7 @@ h1, h2 {
 	right: 10px;
 	width: 15%;
 	height: 18%;
-	background-color: #fff;
+	background-color: rgba(255,255,255,0.9);
 	text-align: center;
 }
 
