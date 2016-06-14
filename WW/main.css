@@ -10,6 +10,15 @@ h1, h2 {
 
 h1 {
 	font-family: 'Indie Flower';
+	font-size: 50px;
+}
+
+h2.header-desc {
+	margin-top: -20px;
+}
+
+p.header-desc {
+	margin-top: 0;
 }
 
 .header img, .header div {
@@ -50,10 +59,15 @@ h1 {
 
 .event-desc-title {
 	margin: 0;
+	margin-top: -8px;
 }
 
 .event-desc-date {
 	margin: 0;
+}
+
+.event-desc-text {
+	margin-top: 0;
 }
 
 .footer {
@@ -65,6 +79,7 @@ h1 {
 	width: 30%;
 	vertical-align: top;
 	margin-right: 4%;
+	text-align: center;
 }
 
 .footer-3.footer-sub {
