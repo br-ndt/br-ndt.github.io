@@ -11,6 +11,10 @@ h1, h2 {
 	display: inline-block;
 }
 
+.sched {
+	margin-bottom: 40px;
+}
+
 .left-sched {
 	width: 33%;
 	position: relative;
@@ -20,6 +24,7 @@ h1, h2 {
 
 .artist-link, .artist-link img {
 	width: 100%;
+	height: 100%;
 }
 
 .event-datetag {
@@ -41,5 +46,19 @@ h1, h2 {
 }
 
 .event-desc-date {
+	margin: 0;
+}
+
+.footer {
+	margin-top: 40px;
+}
+
+.footer-sub {
+	display: inline-block;
+	width: 33%;
+	vertical-align: top;
+}
+
+.footer-sub p {
 	margin: 0;
 }
