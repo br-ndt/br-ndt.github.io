@@ -154,9 +154,17 @@ p.header-desc {
 	}
 
 	.artist-link img, div.carousel {
-		width: 300px;
-		height: 225px;
+		width: 100%;
+		height: auto;
 		object-fit: cover;
 		object-position: top;
+	}
+
+	.event-datetag {
+		display: none;
+	}
+
+	.event-desc {
+		text-align: center;
 	}
 }
