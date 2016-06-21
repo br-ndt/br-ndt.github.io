@@ -137,16 +137,25 @@ p.header-desc {
 	}
 
 	.left-sched {
-		height: 185px;
+		height: 300px;
+		margin-bottom: 5px;
+		float: none;
+		display: block;
 	}
 
 	.flickity-page-dots {
 		display: none;
 	}
+}
+
+@media (max-width: 400px){
+	.left-sched {
+		height: 225px;
+	}
 
 	.artist-link img, div.carousel {
-		width: 250px;
-		height: 185px;
+		width: 300px;
+		height: 225px;
 		object-fit: cover;
 		object-position: top;
 	}
