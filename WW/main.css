@@ -41,6 +41,10 @@ p.header-desc {
 	height: 295px;
 }
 
+.flickity-page-dots {
+	display: none;
+}
+
 .artist-link img, div.carousel {
 	width: 400px;
 	height: 300px;
@@ -77,6 +81,7 @@ p.header-desc {
 
 .footer {
 	margin-top: 40px;
+	clear: left;
 }
 
 .footer-sub {
@@ -95,6 +100,26 @@ p.header-desc {
 	margin: 0;
 }
 
+.directions-desc {
+	text-align: center;
+}
+
+.directions-map {
+	display: block;
+	margin: auto;
+	width: 100%;
+}
+
+.outer-archive .archive {
+	padding-right: 20px;
+	float: left;
+}
+
+.outer-archive .archive ul {
+	-webkit-padding-start: 15px;
+	width: 45px;
+}
+
 /* RESPONSIVE STYLES */
 @media (max-width: 850px){
 	.header img, .header div {
@@ -105,15 +130,18 @@ p.header-desc {
 	h1 {
 		font-size: 50px;
 		line-height: 60px;
+		text-align: center;
 	}
 
 	h2.header-desc {
 		font-size: 24px;
+		text-align: center;
 	}
 
 	p.header-desc {
 		font-size: 16px;
 		line-height: 18px;
+		text-align: center;
 	}
 
 }
@@ -132,10 +160,6 @@ p.header-desc {
 		text-align: center;
 	}
 
-	p.header-desc {
-		text-align: center;
-	}
-
 	.left-sched {
 		height: 300px;
 		margin-bottom: 5px;
@@ -143,9 +167,6 @@ p.header-desc {
 		display: block;
 	}
 
-	.flickity-page-dots {
-		display: none;
-	}
 }
 
 @media (max-width: 400px){
@@ -155,7 +176,7 @@ p.header-desc {
 
 	.artist-link img, div.carousel {
 		width: 100%;
-		height: auto;
+		height: 225px;
 		object-fit: cover;
 		object-position: top;
 	}
