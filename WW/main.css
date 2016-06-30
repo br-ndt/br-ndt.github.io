@@ -191,3 +191,16 @@ p.header-desc {
 		text-align: center;
 	}
 }
+
+@media (max-width: 280px){
+	.left-sched {
+		height: 160px;
+		margin: 0 auto;
+		width: 200px;
+	}
+
+	.artist-link img, div.carousel {
+		width: 200px;
+		height: 160px;
+	}
+}
