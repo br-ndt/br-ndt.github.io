@@ -1,14 +1,21 @@
 <!doctype html>
 
 <html lang="en">
+<!---this section should remain largely unchanged, as it 
+initializes many of the key Search Engine Optimization (SEO) and
+functionality attributes. exceptions are noted-->
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie-edge">
 
+	<!---this is what appears in the browser tab for this window-->
 	<title>Watermelon Wednesdays</title>
-	<meta name="description" content="Watermelon Wednesdays!">
+	<!---some search engines use this to describe the site. short and sweet is best-->
+	<meta name="description" content="Music at the West Whately Chapel">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="author" content="PaulNewlin">
+	<meta name="author" content="Paul Newlin">
+	<!---these can be changed and played with, but make sure they are largely consistent across all pages. no more than 20 or so!!-->
+	<meta name="keywords" content="music,folk,Americana,Whately,Massachusetts">
 
 	<link rel="stylesheet" href="../css/normalize.css"> <!--boilerplate-->
 	<link rel="stylesheet" href="flickity.css"> <!--FLICKITY SLIDER-->
@@ -18,22 +25,49 @@
 
 	<link href='https://fonts.googleapis.com/css?family=Indie+Flower|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'> <!--fonts-->
 
+	<!-- ****** faviconit.com favicons ****** -->
+	<link rel="shortcut icon" href="favicon/favicon.ico">
+	<link rel="icon" sizes="16x16 32x32 64x64" href="favicon/favicon.ico">
+	<link rel="icon" type="image/png" sizes="196x196" href="favicon/favicon-192.png">
+	<link rel="icon" type="image/png" sizes="160x160" href="favicon/favicon-160.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96.png">
+	<link rel="icon" type="image/png" sizes="64x64" href="favicon/favicon-64.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16.png">
+	<link rel="apple-touch-icon" href="favicon/favicon-57.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="favicon/favicon-114.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="favicon/favicon-72.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="favicon/favicon-144.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="favicon/favicon-60.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="favicon/favicon-120.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="favicon/favicon-76.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="favicon/favicon-152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="favicon/favicon-180.png">
+	<meta name="msapplication-TileColor" content="#FFFFFF">
+	<meta name="msapplication-TileImage" content="favicon/favicon-144.png">
+	<meta name="msapplication-config" content="favicon/browserconfig.xml">
+	<!-- ****** faviconit.com favicons ****** -->
+
 	<!--[if lt IE 9]>
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 </head>
 
 <body>
-	<!---wrapper-->
+	<!---wrapper--->
+	<!--this div is for CSS purposes and should not be changed-->
 	<div class="outer-wrapper">
 
-		<!---header-->
+		<!--header-->
+		<!---this div controls the leading area of the site, which is fairly consistent across all pages. exceptions are noted-->
 		<div class="header">
 
-			<img class="header-logo" src="logo.png">
+			<!--overwrite the file listed below to change the logo-->
+			<img class="header-logo" src="img/logo.png">
 			<div class="header-text">
 				<h1>Watermelon Wednesdays</h1>
 				<h2 class="header-desc">Celebrating 17 Years of the Finest Acoustic Music</h2>
+				<!--above should remain consistent on all pages for the best SEO. below is different across pages and can be changed as desired-->
 				<p class="header-desc">At the West Whately Chapel near the intersection of Conway and Williamsburg Roads. <a href="directions/index.html">(Click</a> for directions)<br />
 				Nearly all shows are on Wednesdays and begin at 7:30PM. Doors open at 7:15PM, line forms earlier.<br />
 				Online tickets are highly recommended!</p>
@@ -41,15 +75,20 @@
 		</div>
 
 		<!---schedule-->
+		<!--this div controls the entirety of the schedule and should not be changed-->
 		<div class="schedule">
+			<!--header specific to this year's schedule-->
 			<div class="schedule-desc-wrapper">
 				<h2 class="schedule-desc">2016 Schedule:</h2>
 				<p><a href="archive/index.html">(Click here for the archive of past years)</a></p>
 			</div>
+			<!--$$$-----------------------------------------------------------$$$-->			<!--COPY FROM HERE UNTIL THE COMMENT BELOW FOR A FULL ARTIST LISTING-->
 			<div class="06012016 sched">
 				<div class="left-sched">
 					<a class ="artist-link" href="http://darolanger.com/index.php?page=about&family=projects&display=147" target="_blank">
+						<!--set the artist image here-->
 						<img src="img/mrsun.jpg">
+						<!--set the date here (keep the same "Mon 00" format)-->
 						<div class="event-datetag">
 							<div class="event-datetag-month">Jun</div>
 							<div class="event-datetag-day">1</div>
@@ -58,13 +97,19 @@
 				</div>
 				<div class="right-sched">
 					<div class="event-desc">
+						<!--set the artist weblink here with the <a> tag, changing both the 'href' attribute and the text inside the tags-->
 						<h2 class="event-desc-title"><a href="http://darolanger.com/index.php?page=about&family=projects&display=147" target="_blank">Mister Sun</a></h2>
+						<!--date here as well, using longform-->
 						<p class="event-desc-date">Wednesday, June 1</p>
+						<!--artist description here-->
 						<p class="event-desc-text">Mr Sun comprises 3 generations of some of the sharpest minds to apply themselves to the American String Band repertoire. Legendary fiddler Darol Anger is at home in a number of musical genres, some of which he helped to invent, and is a member of the original "nuclear" generation of pickers who extended Bluegrass, Jazz, and Classical music to find their common ground; Mr Sun is the latest iteration in that legacy. Joe K. Walsh is one of the foremost contemporary mandolinists, with 4 award-winning years in the Gibson Brothers 2 solo recordings, and a Berklee professorship. Grant Gordy is a standout in the crowded field of Acoustic Guitar Wunderkinds. Grant's work was quickly recognized for its kaleidoscopic excellence and startling emotion, fusing Jazz and Bluegrass concepts to an unprecedented degree. The group recently added the spectacular young bassist Ethan Jodziewicz, who just concluded studies at Curtis Institute with Edgar Meyer. Ethan is one of the most virtuosic and versatile bassists anywhere, and is now helping to revolutionize the bass' role in American String Music.<br />
+						<!--set the purchase link here, using the href attribute-->
 						<a class="event-desc-tix" href="https://www.eventbrite.com/e/mister-sun-tickets-25129485969" target="_blank">Buy tix here!</a></p>
 					</div>
 				</div>
 			</div>
+			<!--COPY FROM THE COMMENT ABOVE UNTIL HERE FOR A FULL ARTIST LISTING-->
+			<!--$$$-----------------------------------------------------------$$$-->
 
 			<div class="06082016 sched">
 				<div class="left-sched">
@@ -327,22 +372,30 @@
 		<!---end schedule-->
 
 		<!---footer-->
+		<!--this is for underwriters and other credits. the outer div "footer" should not be changed. this will need to be copy and pasted (until the "end footer" comment) on every page with credits. the images will be referenced differently on the homepage than on inside pages, as inside pages will need a "../" before the "img/"-->
 		<div class="footer">
-			<div class="footer-1 footer-sub">
-				<p class="footer-1-text">Thanks to Jim Olsen and Flora Reed of Signature Sounds for their assistance.</p>
-				<img class="footer-1-img foot-img" src="sigsounds.png">
+			<!--$$----------------------------$$-->
+			<!--COPY FROM HERE TO COMMENT BELOW FOR FULL UNDERWRITER BLOCK-->
+			<div class="footer-sub">
+				<p class="footer-sub-text">Thanks to Jim Olsen and Flora Reed of Signature Sounds for their assistance.</p>
+				<!--underwriter image. not necessary, but do not delete the <img> tag. set the 'src' attribute to blank instead-->
+				<img class="foot-img" src="img/sigsounds.png">
 			</div>
-			<div class="footer-2 footer-sub">
-				<p class="footer-2-text">Florence Savings Bank has also graciously provided support for the series.</p>
-				<img class="footer-2-img foot-img" src="florencebank.png">
+			<!--COPY FROM COMMENT ABOVE TO HERE FOR FULL UNDERWRITER BLOCK-->
+			<!--$$----------------------------$$-->
+			<div class="footer-sub">
+				<p class="footer-sub-text">Florence Bank has also graciously provided support for the series.</p>
+				<img class="foot-img" src="img/florence-bank.svg">
 			</div>
-			<div class="footer-3 footer-sub">
-				<p class="footer-3-text">This series would not be possible at all were it not for the generosity and support of the Whately Congregational Church.</p>
-				<img class="footer-3-img foot-img" src="whatelychurch.png">
+			<div class="footer-sub">
+				<p class="footer-sub-text">This series would not be possible at all were it not for the generosity and support of the Whately Congregational Church.</p>
+				<img class="foot-img" src="img/whately-church.png">
 			</div>
-			<div class="builtby"></div>
 		</div>
 		<!---end footer-->
+		<div class="builtby">
+			<p class="builty-text">Website built by <a href="http://www.chaosindivide.com" target="_blank">Chaos in Divide</a></p>
+		</div>
 	</div>
 	<!---end outer-wrapper-->
 </body>

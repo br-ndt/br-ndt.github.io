@@ -1,6 +1,17 @@
+@font-face {
+    font-family: 'spumoniregular';
+    src: url('spumoni-webfont.woff2') format('woff2'),
+         url('spumoni-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
-	background-image: url('backdrop.png');
+	/*USE THIS TO CHANGE THE BACKGROUND IMAGE*/
+	background-image: url('img/backdrop.png');
 	padding: 5px 10px 5px 10px;
+	/*USE THIS TO CHANGE THE MAIN TEXT*/
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
@@ -9,10 +20,16 @@ h1, h2 {
 }
 
 h1 {
-	font-family: 'Indie Flower';
+	/*USE THIS TO CHANGE THE HEADER FONT*/
+    font-family: 'spumoniregular';
 	font-size: 80px;
 	line-height: 80px;
+	font-weight: normal;
+	padding-bottom: 10px;
 }
+
+/*I WOULD RECOMMENDED NOT CHANGING ANYTHING BELOW
+AS IT COULD RUIN THE FORMATTING OF THE PAGE*/
 
 h2.header-desc {
 	font-size: 38px;
@@ -32,6 +49,8 @@ p.header-desc {
 .sched {
 	margin-bottom: 15px;
 	overflow: hidden;
+	padding: 6px;
+	background: rgba(177,177,177,0.18);
 }
 
 .left-sched {
@@ -82,22 +101,36 @@ p.header-desc {
 .footer {
 	margin-top: 40px;
 	clear: left;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .footer-sub {
-	display: inline-block;
-	width: 30%;
-	vertical-align: top;
-	margin-right: 4%;
-	text-align: center;
-}
-
-.footer-3.footer-sub {
-	margin-right: 0;
+    width: 300px;
+    vertical-align: top;
+    margin: 0 auto;
+    flex: 1 0 200px;
+    margin-left: 10px;
+    box-sizing: border-box;
+    background: rgba(177, 177, 177, 0.18);
+    padding: 6px;
+    margin-bottom: 15px;
+    text-align: center;
 }
 
 .footer-sub p {
 	margin: 0;
+	padding-bottom: 10px;
+}
+
+.builtby {
+	margin-top: -10px;
+}
+
+.builtby .builty-text {
+	margin: 0;
+	font-size: small;
+	text-align: center;
 }
 
 .directions-desc {
@@ -128,12 +161,11 @@ p.header-desc {
 	}
 
 	h1 {
-		font-size: 50px;
-		line-height: 60px;
-		text-align: center;
+		display: none;
 	}
 
 	h2.header-desc {
+		margin-top: -5px;
 		font-size: 24px;
 		text-align: center;
 	}
@@ -190,11 +222,15 @@ p.header-desc {
 	.event-desc {
 		text-align: center;
 	}
+
+	img.foot-img {
+		width: 200px;
+	}
 }
 
 @media (max-width: 280px){
 	.left-sched {
-		height: 160px;
+		height: 170px;
 		margin: 0 auto;
 		width: 200px;
 	}

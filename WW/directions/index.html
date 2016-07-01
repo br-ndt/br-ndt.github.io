@@ -30,7 +30,7 @@
 		<!---header-->
 		<div class="header">
 
-			<img class="header-logo" src="../logo.png">
+			<img class="header-logo" src="../img/logo.png">
 			<div class="header-text">
 				<h1>Watermelon Wednesdays</h1>
 				<h2 class="header-desc">Celebrating 17 Years of the Finest Acoustic Music</h2>
@@ -41,26 +41,34 @@
 
 		<!---directions-->
 		<div class="directions">
-			<p class="directions-desc">The West Whately Chapel is located near the intersection of Conway and Williamsburg Roads, in West Whately. Take a look at the Google Maps directions below for GPS directions.</p>
+			<p class="directions-desc">The West Whately Chapel is located near the intersection of Conway and Williamsburg Roads, in West Whately.<br/>Take a look at the Google Maps directions below for GPS directions.</p>
 			<iframe class="directions-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.4927888705674!2d-72.68499168509106!3d42.43853003813601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e6d512548e55f5%3A0x47b31a0d5a2bce69!2sWest+Whately+Chapel!5e0!3m2!1sen!2sus!4v1466624915561" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 		</div>
 
 		<!---footer-->
+		<!--this is for underwriters and other credits. the outer div "footer" should not be changed. this will need to be copy and pasted (until the "end footer" comment) on every page with credits. the images will be referenced differently on the homepage than on inside pages, as inside pages will need a "../" before the "img/"-->
 		<div class="footer">
-			<div class="footer-1 footer-sub">
-				<p class="footer-1-text">Thanks to Jim Olsen and Flora Reed of Signature Sounds for their assistance.</p>
-				<img class="footer-1-img foot-img" src="../sigsounds.png">
+			<!--$$----------------------------$$-->
+			<!--COPY FROM HERE TO COMMENT BELOW FOR FULL UNDERWRITER BLOCK-->
+			<div class="footer-sub">
+				<p class="footer-sub-text">Thanks to Jim Olsen and Flora Reed of Signature Sounds for their assistance.</p>
+				<!--underwriter image. not necessary, but do not delete the <img> tag. set the 'src' attribute to blank instead-->
+				<img class="foot-img" src="../img/sigsounds.png">
 			</div>
-			<div class="footer-2 footer-sub">
-				<p class="footer-2-text">Florence Savings Bank has also graciously provided support for the series.</p>
-				<img class="footer-2-img foot-img" src="../florencebank.png">
+			<!--COPY FROM COMMENT ABOVE TO HERE FOR FULL UNDERWRITER BLOCK-->
+			<!--$$----------------------------$$-->
+			<div class="footer-sub">
+				<p class="footer-sub-text">Florence Bank has also graciously provided support for the series.</p>
+				<img class="foot-img" src="../img/florence-bank.svg">
 			</div>
-			<div class="footer-3 footer-sub">
-				<p class="footer-3-text">This series would not be possible at all were it not for the generosity and support of the Whately Congregational Church.</p>
-				<img class="footer-3-img foot-img" src="../whatelychurch.png">
+			<div class="footer-sub">
+				<p class="footer-sub-text">This series would not be possible at all were it not for the generosity and support of the Whately Congregational Church.</p>
+				<img class="foot-img" src="../img/whately-church.png">
 			</div>
-			<div class="builtby"></div>
 		</div>
 		<!---end footer-->
+		<div class="builtby">
+			<p class="builty-text">Website built by <a href="http://www.chaosindivide.com" target="_blank">Chaos in Divide</a></p>
+		</div>
 	</div>
 </body>
