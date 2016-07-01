@@ -50,7 +50,7 @@ p.header-desc {
 	margin-bottom: 15px;
 	overflow: hidden;
 	padding: 6px;
-	background: rgba(177,177,177,0.18);
+	background: rgba(177,177,177,0.24);
 }
 
 .left-sched {
@@ -112,7 +112,7 @@ p.header-desc {
     flex: 1 0 200px;
     margin-left: 10px;
     box-sizing: border-box;
-    background: rgba(177, 177, 177, 0.18);
+    background: rgba(177, 177, 177, 0.24);
     padding: 6px;
     margin-bottom: 15px;
     text-align: center;
