@@ -46,6 +46,11 @@ p.header-desc {
 	display: inline-block;
 }
 
+.schedule-desc-wrapper p {
+	margin-top: 0;
+	font-size: small;
+}
+
 .sched {
 	margin-bottom: 15px;
 	overflow: hidden;
