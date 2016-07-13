@@ -9,7 +9,7 @@
 
 body {
 	/*USE THIS TO CHANGE THE BACKGROUND IMAGE*/
-	background-image: url('img/backdrop.png');
+	background-image: url('../img/backdrop.png');
 	padding: 5px 10px 5px 10px;
 	/*USE THIS TO CHANGE THE MAIN TEXT*/
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -63,6 +63,11 @@ p.header-desc {
 	float: left;
 	margin-right: 5px;
 	height: 295px;
+}
+
+.left-sched.left-tall {
+	height: 605px;
+	width: 400px;
 }
 
 .flickity-page-dots {
@@ -198,7 +203,6 @@ p.header-desc {
 	}
 
 	.left-sched {
-		height: 300px;
 		margin-bottom: 5px;
 		float: none;
 		display: block;
@@ -210,11 +214,16 @@ p.header-desc {
 	.left-sched {
 		height: 220px;
 		margin: 0 auto;
-		width: 280px;
+		width: 255px;
+	}
+
+	.left-sched.left-tall {
+		height: 435px;
+		width: 255px;
 	}
 
 	.artist-link img, div.carousel {
-		width: 280px;
+		width: 255px;
 		height: 210px;
 		object-fit: cover;
 		object-position: top;
@@ -237,6 +246,11 @@ p.header-desc {
 	.left-sched {
 		height: 170px;
 		margin: 0 auto;
+		width: 200px;
+	}
+
+	.left-sched.left-tall {
+		height: 335px;
 		width: 200px;
 	}
 
