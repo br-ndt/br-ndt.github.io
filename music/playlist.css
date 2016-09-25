@@ -19,10 +19,6 @@ audio {
 	background-image: url('../img/bio.jpg');
 }
 
-.playlist {
-	width: 400px;
-}
-
 .music {
 	text-align: center;
 }
@@ -44,4 +40,10 @@ audio {
 
 .music li a:hover {
 	text-decoration: none;
+}
+
+@media screen and (max-width:450px) {
+	#playlist, audio {
+		width: 200px;
+	}
 }

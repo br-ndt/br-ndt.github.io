@@ -3517,9 +3517,7 @@
 
 /* PORTFOLIO */
 .portfolio-content-wrapper, .blog-content-wrapper {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
+	display: block;
 	justify-content: center;
 }
 
@@ -3541,8 +3539,8 @@
 }
 
 .blog-img-wrapper {
-	width: 15vw;
-	height: 15vw;
+	width: 300px;
+	height: 300px;
 	position: relative;
 	overflow: hidden;
 }
