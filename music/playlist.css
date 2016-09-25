@@ -1,5 +1,5 @@
 #playlist, audio {
-	width: 400px;
+	width: 500px;
 	margin: 0 auto;
 }
 
@@ -42,8 +42,8 @@ audio {
 	text-decoration: none;
 }
 
-@media screen and (max-width:450px) {
+@media screen and (max-width:499px) {
 	#playlist, audio {
-		width: 100vw;
+		width: 100%;
 	}
 }
