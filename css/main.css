@@ -2882,6 +2882,8 @@
 				-webkit-flex-direction: column;
 				-ms-flex-direction: column;
 				flex-direction: column;
+				width: 100%;
+				min-width: initial;
 			}
 
 				.post > header .meta > * {
@@ -3257,6 +3259,15 @@
 
 		}
 
+		@media screen and (max-width: 400px) {
+
+			#wrapper {
+				max-width: 100vw;
+				margin: 0;
+				text-align: center;
+			}
+		}
+
 /* Main */
 
 	#main {
@@ -3573,6 +3584,14 @@ p.portfolio-txt, p.blog-txt {
 		width: auto;
 		border-top: solid 1px rgba(160, 160, 160, 0.3);
     	padding-top: 15px;
+	}
+
+	.blog-emb {
+		max-width: 100vw;
+	}
+
+	iframe {
+		max-width: 100%;
 	}
 }
 
