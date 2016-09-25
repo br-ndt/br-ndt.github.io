@@ -46,6 +46,22 @@ p.header-desc {
 	display: inline-block;
 }
 
+.church-wrapper {
+	float: right;
+	width: 160px;
+}
+
+.church-wrapper .church-text {
+    max-height: 160px !important;
+    width: 100%;
+    margin: 0;
+}
+
+.church-wrapper .church-img {
+	height: auto;
+	width: 100%;
+}
+
 .schedule-desc-wrapper p {
 	margin-top: 0;
 	font-size: small;
@@ -56,6 +72,7 @@ p.header-desc {
 	overflow: hidden;
 	padding: 6px;
 	background: rgba(177,177,177,0.24);
+	text-align: initial;
 }
 
 .left-sched {
@@ -111,26 +128,33 @@ p.header-desc {
 .footer {
 	margin-top: 40px;
 	clear: left;
+}
+
+.footer-sub-wrapper {
 	display: flex;
+	flex-direction: row;
 	flex-wrap: wrap;
+	justify-content: center;
+	height: 100vw;
 }
 
 .footer-sub {
-    width: 300px;
+    width: 20%;
     vertical-align: top;
-    margin: 0 auto;
-    flex: 1 0 200px;
     margin-left: 10px;
-    box-sizing: border-box;
-    background: rgba(177, 177, 177, 0.24);
     padding: 6px;
     margin-bottom: 15px;
-    text-align: center;
+    text-align: center;    
+    /*background: rgba(177, 177, 177, 0.24);*/
 }
 
 .footer-sub p {
 	margin: 0;
 	padding-bottom: 10px;
+}
+
+img.foot-img {
+	width: 100%;
 }
 
 .builtby {
@@ -164,10 +188,34 @@ p.header-desc {
 }
 
 /* RESPONSIVE STYLES */
+@media (min-width: 851px) and (max-width: 1060px){
+	.header .church-wrapper {
+		width: 15%;
+	}
+
+	.header .header-text {
+		width: 85%;
+		float: left;
+	}
+
+	.schedule {
+		clear: left;
+	}
+}
+
 @media (max-width: 850px){
 	.header img, .header div {
 		display: block;
 		margin: 0 auto;
+	}
+
+	.church-wrapper {
+		float: none;
+		width: 100%;
+	}
+
+	.church-wrapper .church-img {
+		display: none;
 	}
 
 	h1 {

@@ -41,6 +41,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	img {
+		max-width: 100%;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -317,13 +321,51 @@
 	}
 
 	.actions {
-		margin-bottom: 0;
+		margin: 0;
+		text-align: center;
 	}
 
 	.email-help {
 		font-size: x-small;
 		margin: 0;
 		display: inline;
+	}
+
+	.no-line {
+		border: 0 !important;
+	}
+
+	.no-marg {
+		margin: 0 !important;
+	}
+
+	.blog-info {
+		margin: 0;
+	}
+
+	.ext-marg {
+		margin-bottom: 30px;
+	}
+
+	.text-line {
+		padding-bottom: 55px;
+		border-bottom: dotted 1px rgba(160, 160, 160, 0.65);
+	}
+
+	.bio {
+		text-align: center;
+	}
+
+	.bio p {
+		margin: 0;
+	}
+
+	.tracks {
+		display: inherit;
+	}
+
+	.tracks p {
+		margin-right: 30px;
 	}
 
 	@media screen and (max-width: 1680px) {
@@ -3223,10 +3265,28 @@
 		-ms-flex-grow: 1;
 		flex-grow: 1;
 		-ms-flex: 1;
+		min-width: 60vw;
 		width: 100%;
 	}
 
 /* Sidebar */
+
+	.about {
+		text-align: center;
+	}
+
+	.about h2, .welcome {
+		margin: 0;
+	}
+
+	.latest-blog h3 {
+		margin-top: 1.5em;
+		margin-bottom: 0;
+	}
+
+	.more-info {
+		margin-bottom: 0;
+	}
 
 	#sidebar {
 		margin-right: 3em;
@@ -3454,3 +3514,90 @@
 			}
 
 		}
+
+/* PORTFOLIO */
+.portfolio-content-wrapper, .blog-content-wrapper {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.portfolio-item {
+	width: 25vw;
+    vertical-align: top;
+    margin-left: 10px;
+    padding: 6px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.blog-item {
+	text-align: center;
+	vertical-align: top;
+	margin-left: 10px;
+	padding: 6px;
+	margin-bottom: 30px;
+}
+
+.blog-img-wrapper {
+	width: 15vw;
+	height: 15vw;
+	position: relative;
+	overflow: hidden;
+}
+
+.blog-emb {
+	text-align: center;
+}
+
+img.blog-img {
+	margin: auto;
+	width: 100%;
+	min-height: 100%;
+}
+
+img.portfolio-img {
+	width: 100%;
+	height: 95%;
+}
+
+img.portfolio-about-img {
+	max-width: 98%;
+}
+
+p.portfolio-txt, p.blog-txt {
+	font-size: 75%;
+}
+
+@media screen and (max-width: 520px) {
+	.portfolio-item {
+		width: auto;
+		border-top: solid 1px rgba(160, 160, 160, 0.3);
+    	padding-top: 15px;
+	}
+}
+
+.portfolio-about {
+	text-align: center;
+}
+
+/* ALBUMS */
+.music-album-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.music-album {
+    width: 40vw;
+    margin-left: 5vw;
+}
+
+img.album-img {
+    width: 100%;
+}
+
+p.album-txt {
+	text-align: center;
+}

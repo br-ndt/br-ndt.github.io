@@ -1,0 +1,47 @@
+#playlist, audio {
+	width: 400px;
+	margin: 0 auto;
+}
+
+audio {
+	padding: 40px;
+}
+
+#playlist {
+	padding: 0;
+}
+
+.riverside {
+	background-image: url('../img/riversideBG.jpg');
+}
+
+.singles {
+	background-image: url('../img/bio.jpg');
+}
+
+.playlist {
+	width: 400px;
+}
+
+.music {
+	text-align: center;
+}
+
+.music ul {
+	list-style: none;
+}
+
+.music .active a {
+	color: #5DB0E6;
+	text-decoration: none;
+}
+
+.music li a {
+	color: #eeeedd;
+	padding: 5px;
+	display: block;
+}
+
+.music li a:hover {
+	text-decoration: none;
+}
