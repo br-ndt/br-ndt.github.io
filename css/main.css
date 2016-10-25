@@ -3529,36 +3529,37 @@
 /* PORTFOLIO */
 .portfolio-content-wrapper {
 	display: flex;
-	justify-content: center;
+	flex-wrap: wrap;
 }
 
 .blog-content-wrapper {
-	display: block;
+	display: flex;
+	flex-wrap: wrap;
 }
 
-.portfolio-item {
-	width: 25vw;
-    vertical-align: top;
-    margin-left: 10px;
-    padding: 6px;
-    margin-bottom: 30px;
-    text-align: center;
-}
-
-.blog-item {
+.blog-item, .portfolio-item {
 	text-align: center;
 	vertical-align: top;
 	margin-left: 10px;
 	padding: 6px;
 	margin-bottom: 30px;
+	flex: 1;
 }
 
-.blog-img-wrapper {
-	width: 300px;
-	height: 300px;
+.blog-img-wrapper, .portfolio-img-wrapper {
 	position: relative;
 	overflow: hidden;
-	margin: 0 auto;portfolio
+	margin: 0 auto;
+}
+
+.blog-img-wrapper {	
+	width: 300px;
+	height: 300px;
+}
+
+.portfolio-img-wrapper {
+	width: 250px;
+	height: 150px;
 }
 
 .blog-emb {
