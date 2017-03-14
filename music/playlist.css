@@ -11,25 +11,12 @@ audio {
 	padding: 0;
 }
 
-.riverside {
-	background-image: url('../img/riversideBG.jpg');
-}
-
-.singles {
-	background-image: url('../img/bio.jpg');
-}
-
 .music {
 	text-align: center;
 }
 
 .music ul {
 	list-style: none;
-}
-
-.music .active a {
-	color: #5DB0E6;
-	text-decoration: none;
 }
 
 .music li a {
@@ -39,6 +26,37 @@ audio {
 }
 
 .music li a:hover {
+	text-decoration: none;
+}
+
+.riverside {
+	background-image: url('../img/riversideBG.jpg');
+}
+
+.singles {
+	background-image: url('../img/bio.jpg');
+}
+
+.omnislash {
+	background-image: url('../img/omnislash.jpg');
+}
+
+.screps1 {
+	background-image: url('../img/screps.jpg');
+    background-position-y: 2200px;
+    background-size: cover;
+}
+
+.screps2 {
+	background-image: url('../img/yavsam.jpg');
+}
+
+.music .screps2 a {
+	color: #2b2b2b;
+}
+
+.music .active a {
+	color: #5DB0E6;
 	text-decoration: none;
 }
 

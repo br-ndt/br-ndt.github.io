@@ -1,0 +1,59 @@
+#playlist, audio {
+	width: 500px;
+	margin: 0 auto;
+}
+
+audio {
+    padding: 50px 5px 20px 5px;
+}
+
+#playlist {
+	padding: 0;
+}
+
+.music {
+	text-align: center;
+}
+
+.music ul {
+	list-style: none;
+}
+
+.music li a {
+	color: #eeeedd;
+	padding: 5px;
+	display: block;
+}
+
+.music li a:hover {
+	text-decoration: none;
+}
+
+.omnislash {
+	background-image: url('../../img/omnislash.jpg');
+}
+
+.screps1 {
+	background-image: url('../img/screps.jpg');
+    background-position-y: 2200px;
+    background-size: cover;
+}
+
+.screps2 {
+	background-image: url('../img/yavsam.jpg');
+}
+
+.music .screps2 a {
+	color: #2b2b2b;
+}
+
+.music .active a {
+	color: #5DB0E6;
+	text-decoration: none;
+}
+
+@media screen and (max-width:499px) {
+	#playlist, audio {
+		width: 100%;
+	}
+}
