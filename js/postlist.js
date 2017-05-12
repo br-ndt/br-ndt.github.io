@@ -12,7 +12,7 @@ document.getElementById("post-list").innerHTML =
 		'<li>'+
 			'<article>'+
 				'<header>'+
-					'<h3><a href="../hotsprings">Hot Springs, WA/BC/AB</a></h3>'+
+					'<h3><a href="../hotsprings">Hot Springs, TX/WA/BC/AB</a></h3>'+
 						'<time class="published" datetime="2017-04-30">April 30, 2017</time>'+
 				'</header>'+
 				'<a href="../hotsprings" class="image"><img alt="0430 image" src="../../img/blog/04302017s.jpg"/></a>'+
