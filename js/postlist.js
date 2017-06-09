@@ -3,28 +3,28 @@ document.getElementById("post-list").innerHTML =
 		'<li>'+
 			'<article>'+
 				'<header>'+
-					'<h3><a href="../0511-yellowstone">Yellowstone, MT/WY/ID</a></h3>'+
+					'<h3><a href="../06082017">West Coast Redux, OR/NV/CA</a></h3>'+
+						'<time class="published" datetime="2017-06-08">June 8, 2017</time>'+
+				'</header>'+
+				'<a href="../06082017" class="image"><img alt="06082017 image" src="../../img/blog/06082017s.jpg"/></a>'+
+			'</article>'+
+		'</li>'+
+		'<li>'+
+			'<article>'+
+				'<header>'+
+					'<h3><a href="../05112017">Yellowstone, MT/WY/ID</a></h3>'+
 						'<time class="published" datetime="2017-05-11">May 11, 2017</time>'+
 				'</header>'+
-				'<a href="../0511-yellowstone" class="image"><img alt="0511 image" src="../../img/blog/05112017s.jpg"/></a>'+
+				'<a href="../05112017" class="image"><img alt="05112017 image" src="../../img/blog/05112017s.jpg"/></a>'+
 			'</article>'+
 		'</li>'+
 		'<li>'+
 			'<article>'+
 				'<header>'+
-					'<h3><a href="../hotsprings">Hot Springs, TX/WA/BC/AB</a></h3>'+
+					'<h3><a href="../hotsprings">Hot Springs, TX/WA/BC/AB/OR</a></h3>'+
 						'<time class="published" datetime="2017-04-30">April 30, 2017</time>'+
 				'</header>'+
-				'<a href="../hotsprings" class="image"><img alt="0430 image" src="../../img/blog/04302017s.jpg"/></a>'+
-			'</article>'+
-		'</li>'+
-		'<li>'+
-			'<article>'+
-				'<header>'+
-					'<h3><a href="../0423-oh-canada">Oh, Canada, BC</a></h3>'+
-						'<time class="published" datetime="2017-04-23">April 23, 2017</time>'+
-				'</header>'+
-				'<a href="../0423-oh-canada" class="image"><img alt="0423 image" src="../../img/blog/04232017s.jpg"/></a>'+
+				'<a href="../hotsprings" class="image"><img alt="04302017 image" src="../../img/blog/04302017s.jpg"/></a>'+
 			'</article>'+
 		'</li>'+
 	'</ul>';
