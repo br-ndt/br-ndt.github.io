@@ -1,5 +1,14 @@
 document.getElementById("post-list").innerHTML =
-	'<ul class="posts">'+
+	'<ul class="posts">'+		
+		'<li>'+
+			'<article>'+
+				'<header>'+
+					'<h3><a href="../06262017">Across the Desert(s), CA/UT/AZ</a></h3>'+
+						'<time class="published" datetime="2017-06-26">June 26, 2017</time>'+
+				'</header>'+
+				'<a href="../06262017" class="image"><img alt="06262017 image" src="../../img/blog/06262017s.jpg"/></a>'+
+			'</article>'+
+		'</li>'+
 		'<li>'+
 			'<article>'+
 				'<header>'+
@@ -16,15 +25,6 @@ document.getElementById("post-list").innerHTML =
 						'<time class="published" datetime="2017-05-11">May 11, 2017</time>'+
 				'</header>'+
 				'<a href="../05112017" class="image"><img alt="05112017 image" src="../../img/blog/05112017s.jpg"/></a>'+
-			'</article>'+
-		'</li>'+
-		'<li>'+
-			'<article>'+
-				'<header>'+
-					'<h3><a href="../hotsprings">Hot Springs, TX/WA/BC/AB/OR</a></h3>'+
-						'<time class="published" datetime="2017-04-30">April 30, 2017</time>'+
-				'</header>'+
-				'<a href="../hotsprings" class="image"><img alt="04302017 image" src="../../img/blog/04302017s.jpg"/></a>'+
 			'</article>'+
 		'</li>'+
 	'</ul>';
