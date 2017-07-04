@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=Play');
+
+body {
+	padding-top: 1.5em;
+}
+
+li {
+	font-family: "Play", sans-serif;
+}
+
+li ul {
+    margin: 0 auto;
+}
+
+#timeline {
+    padding: 0;
+    padding-top: .7em;
+    margin: 0;
+    font-size: 20px;
+}
+
+.header {
+	margin: 2em;
+	margin-top: 0.5em;
+}
+
+.content-1 {
+	font-size: .8em;
+	margin: 1em auto;
+	display: flex;
+	display: -webkit-flex;
+}
+
+.content-1-title {
+	border-bottom-color: transparent;
+	width: 85px;
+}
+
+.content-1-history {
+	border-bottom-color: transparent;
+	width: 50px;
+}
+
+.content-2-list {
+	margin: 0;
+	padding-left: 2em;
+}
+
+.content-2 {
+	display: flex;
+	display: -webkit-flex;
+}
+
+.pages {
+	margin: 2em;
+}
+
+.menu-dis a {
+	pointer-events: none;
+}
+
+.no-bull {
+	list-style: none;
+}
+
+.index-list {
+	display: flex;
+	list-style: none;
+	text-align: center;
+}
+
+.index-title {
+	font-size: 1.56em;
+	padding-bottom: 1.5em;
+	padding-right: 1.5em;	
+}
+
+.index-title a {	
+	border-bottom-color: transparent;
+}
+
+.index-sub1 {
+    font-size: .79em;
+    padding: 1em;
+    padding-top: .3em;
+    flex-grow: 1;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.index-sub2 {
+	font-size: 0.48em;
+}
+
+.info-sub1 {
+	padding-left: 4em;
+}
+
+.info-sub2 {
+    padding-left: 2em;
+    color: lightslategrey;
+    font-size: 12px;
+}
+
+.geo {
+	color: olivedrab;
+}
+
+.hist {
+	color: slategrey;
+}
+
+.sent {
+	color: darkkhaki;
+}
+
+.reli {
+	color: darkred;
+}

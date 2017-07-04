@@ -2222,7 +2222,7 @@
 		padding-left: 1em;
 	}
 
-		ul li {
+		ul li, li ul, li ul li {
 			padding-left: 0.5em;
 		}
 
