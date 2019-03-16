@@ -48,6 +48,9 @@
   display: block;
   margin: 0 auto; }
 
+.blog-iframe {
+  max-width: 100%; }
+
 .hotspring-title {
   font-size: 40px; }
 
