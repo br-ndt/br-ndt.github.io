@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.chaosindivide.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.chaosindivide.com/" rel="alternate" type="text/html" /><updated>2019-03-16T17:18:47-04:00</updated><id>https://www.chaosindivide.com/feed.xml</id><title type="html">CHAOS IN DIVIDE</title><subtitle>In Entropy, Find Peace.</subtitle><entry><title type="html">The Return</title><link href="https://www.chaosindivide.com/blog/2019/03/13" rel="alternate" type="text/html" title="The Return" /><published>2019-03-13T00:00:00-04:00</published><updated>2019-03-13T00:00:00-04:00</updated><id>https://www.chaosindivide.com/blog/2019/03/the-return</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2019/03/13">&lt;p&gt;I’m back.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-17T00:28:47-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CHAOS IN DIVIDE</title><subtitle>In Entropy, Find Peace.</subtitle><entry><title type="html">The Return</title><link href="http://localhost:4000/blog/2019/03/13" rel="alternate" type="text/html" title="The Return" /><published>2019-03-13T00:00:00-04:00</published><updated>2019-03-13T00:00:00-04:00</updated><id>http://localhost:4000/blog/2019/03/the-return</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/13">&lt;p&gt;I’m back.&lt;/p&gt;
 
 &lt;p&gt;I’ve made a return to the blogosphere. I am experimenting with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, a Ruby extension that allows for fun and easy static site generation. We’ll see how long I stick with it, but for now, it seems pretty cool.&lt;/p&gt;
 
-&lt;p&gt;As I’m sure you’ve noticed, my website has received a bit of a makeover. With Jekyll, I have a lot more control over my website than my previous boilerplate, copypasta mess. I’d like to hear any thoughts on how it compares to the old, if you remember that! I am still working on it, and that is now an easier and more enjoyable task, so I hope I’ll stick with it a bit more. Also, if you are an old visitor, I revived my &lt;a href=&quot;https://www.chaosindivide.com/travel.html&quot;&gt;old travel blog&lt;/a&gt;, check it out!&lt;/p&gt;
+&lt;p&gt;As I’m sure you’ve noticed, my website has received a bit of a makeover. With Jekyll, I have a lot more control over my website than my previous boilerplate, copypasta mess. I’d like to hear any thoughts on how it compares to the old, if you remember that! I am still working on it, and that is now an easier and more enjoyable task, so I hope I’ll stick with it a bit more. Also, if you are an old visitor, I revived my &lt;a href=&quot;http://localhost:4000/travel.html&quot;&gt;old travel blog&lt;/a&gt;, check it out!&lt;/p&gt;
 
-&lt;p&gt;Thanks for checking in, stay tuned!&lt;/p&gt;</content><author><name>entro</name></author><category term="entro" /><summary type="html">I’m back.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chaosindivide.com/assets/images/blog/passing.jpg" /></entry><entry><title type="html">SteamHeart 0.0.1</title><link href="https://www.chaosindivide.com/blog/2018/12/27" rel="alternate" type="text/html" title="SteamHeart 0.0.1" /><published>2018-12-27T00:00:00-05:00</published><updated>2018-12-27T00:00:00-05:00</updated><id>https://www.chaosindivide.com/blog/2018/12/steamheart-001</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2018/12/27">&lt;p&gt;Despite its flaws, I am very proud to announce something:
+&lt;p&gt;Thanks for checking in, stay tuned!&lt;/p&gt;</content><author><name>entro</name></author><category term="entro" /><summary type="html">I’m back.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/passing.jpg" /></entry><entry><title type="html">SteamHeart 0.0.1</title><link href="http://localhost:4000/blog/2018/12/27" rel="alternate" type="text/html" title="SteamHeart 0.0.1" /><published>2018-12-27T00:00:00-05:00</published><updated>2018-12-27T00:00:00-05:00</updated><id>http://localhost:4000/blog/2018/12/steamheart-001</id><content type="html" xml:base="http://localhost:4000/blog/2018/12/27">&lt;p&gt;Despite its flaws, I am very proud to announce something:
 I have a game demo.&lt;/p&gt;
 
 &lt;script&gt;
@@ -26,49 +26,49 @@ function simmerBackground() {
 
 &lt;p&gt;There are a lot of known issues and bugs, which you can check out in the &lt;a href=&quot;https://github.com/McWenker/Steamheart&quot;&gt;GitHub Repo&lt;/a&gt;, but if you want to give it a shot, I’d love to hear your thoughts!&lt;/p&gt;
 
-&lt;p&gt;This is only the beginning.&lt;/p&gt;</content><author><name>vidya</name></author><summary type="html">Despite its flaws, I am very proud to announce something: I have a game demo.</summary></entry><entry><title type="html">I Didnt Kno</title><link href="https://www.chaosindivide.com/blog/2018/12/26" rel="alternate" type="text/html" title="I Didnt Kno" /><published>2018-12-26T00:00:00-05:00</published><updated>2018-12-26T00:00:00-05:00</updated><id>https://www.chaosindivide.com/blog/2018/12/i-didnt-kno</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2018/12/26">&lt;p&gt;Another trappy, sample-based jam.&lt;/p&gt;
+&lt;p&gt;This is only the beginning.&lt;/p&gt;</content><author><name>vidya</name></author><summary type="html">Despite its flaws, I am very proud to announce something: I have a game demo.</summary></entry><entry><title type="html">I Didnt Kno</title><link href="http://localhost:4000/blog/2018/12/26" rel="alternate" type="text/html" title="I Didnt Kno" /><published>2018-12-26T00:00:00-05:00</published><updated>2018-12-26T00:00:00-05:00</updated><id>http://localhost:4000/blog/2018/12/i-didnt-kno</id><content type="html" xml:base="http://localhost:4000/blog/2018/12/26">&lt;p&gt;Another trappy, sample-based jam.&lt;/p&gt;
 
 &lt;iframe class=&quot;blog-iframe&quot; width=&quot;100%&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/550690917%3Fsecret_token%3Ds-TPnXL&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
 &lt;!--more--&gt;
 
-&lt;p&gt;Something I’m still messing around with, I really like the way the sample worked with it the chords. The piano is a little dusty, but I think I like it. That clicky-clack loop was just me tapping on a grinder with a pencil, ha. Gotta love the Ocarina of Time samples.&lt;/p&gt;</content><author><name>seizer</name></author><summary type="html">Another trappy, sample-based jam.</summary></entry><entry><title type="html">Rocky Mountains, Black Hills, CO/WY/SD</title><link href="https://www.chaosindivide.com/blog/2017/08/03" rel="alternate" type="text/html" title="Rocky Mountains, Black Hills, CO/WY/SD" /><published>2017-08-03T00:00:00-04:00</published><updated>2017-08-03T00:00:00-04:00</updated><id>https://www.chaosindivide.com/blog/2017/08/rocky-mountains-black-hills</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2017/08/03">&lt;p&gt;Wow, July really flew by huh? The 4th feels like just the other day…&lt;/p&gt;
+&lt;p&gt;Something I’m still messing around with, I really like the way the sample worked with it the chords. The piano is a little dusty, but I think I like it. That clicky-clack loop was just me tapping on a grinder with a pencil, ha. Gotta love the Ocarina of Time samples.&lt;/p&gt;</content><author><name>seizer</name></author><summary type="html">Another trappy, sample-based jam.</summary></entry><entry><title type="html">Rocky Mountains, Black Hills, CO/WY/SD</title><link href="http://localhost:4000/blog/2017/08/03" rel="alternate" type="text/html" title="Rocky Mountains, Black Hills, CO/WY/SD" /><published>2017-08-03T00:00:00-04:00</published><updated>2017-08-03T00:00:00-04:00</updated><id>http://localhost:4000/blog/2017/08/rocky-mountains-black-hills</id><content type="html" xml:base="http://localhost:4000/blog/2017/08/03">&lt;p&gt;Wow, July really flew by huh? The 4th feels like just the other day…&lt;/p&gt;
 
 &lt;p&gt;Anywho, we’ve just stopped for a brief charging rest in Tomah, WI. It’s a teeny little town that is very typical of the Midwest.&lt;/p&gt;
 
 &lt;p&gt;Because July just rushed on by, my last post was back when we were just entering Colorado. They don’t call it Colorful Colorado for no reason–my oh my, what a beautiful state. We began our tour by heading southeast from Grand Junction to Black Canyon of the Gunnison National Park.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /blackcanyon1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /blackcanyon2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;A view of the flatland on the north side. This is from the south side, where we first visited.&lt;/p&gt;
 
 &lt;p&gt;Black Canyon was formed by a river going down the 5th steepest mountain slope in North America. The river swiftly cut a slender canyon through the hard granite, quartz, and pegmatite (a reddish, ferrous mineral that mixed with the quartz to make some beautiful stones) creating a colorful, multiple-thousand-foot drop that sometimes is only 40ft wide.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /blackcanyon3.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;This is from the north side, where we went the following day.&lt;/p&gt;
 
 &lt;p&gt;While in Grand Junction, I got in touch with my aunt who lived in Colorado for most of her life! She was staying with my cousin at their house in Crested Butte, just a short drive from Gunnison! Our plans were diverted, for what may be the most charming little valley town in all of the Americas.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /crestedbutte1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Welcome to the Rocky Mountains.&lt;/p&gt;
 
 &lt;p&gt;The town of Crested Butte is a teeny grid of too-cute homes centered around the picturesque (although not pictured) Elk Avenue. Surrounded by incredible outdoorland, the town is abundant with eager, active folk all too happy to strike up some small talk. While we were there, my aunt and cousin reminded us what family was all about (even though I hadn’t seen them in probably over a decade!) and we got some much-needed R&amp;amp;R (despite the efforts of my young second-cousins). We also got some &lt;em&gt;much&lt;/em&gt;-needed pet time.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /crestedbuttedog.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Say hello to Loula (L), and Siminy (R)!&lt;/p&gt;
 
 &lt;p&gt;Showered, rested, refreshed by the mountain air, and all our laundry done, we it was time for our tour-de-Colorado to commence once more. We were taking a pretty unusual route from Crested Butte to Boulder (although, the “usual” route requires driving at least 30 miles on dirt mountain roads…), heading back to Gunnison before striking further south towards Durango, Cortez, and the Colorado/Utah border. Why back to Utah? More Pueblo ruins, of course.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /redmountain.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;On the way we encountered the lovely Red Mountain. We could only guess that iron had created the bright, red pigment.&lt;/p&gt;
@@ -77,123 +77,123 @@ function simmerBackground() {
 
 &lt;p&gt;There was the Cliff Palace:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /cliffpalace1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/cliffpalace2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img text-line&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog/cliffpalace2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img text-line&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Long House:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/longhouse.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog/longhouse.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;and our favorite, Balcony House:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /balconyhouse.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes&quot;&gt;It's hard to tell from this picture, but this was the view from the Balcony:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/balconyview.jpg&quot; alt=&quot;&quot; class=&quot;blog-img text-line&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog/balconyview.jpg&quot; alt=&quot;&quot; class=&quot;blog-img text-line&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;After a few days in Mesa Verde, we headed further west towards Canyons of the Ancients and Hovenweep National Monuments. These two monuments overlap one another, protecting another series of Pueblo castle ruins that are centered at Square Tower Valley in Hovenweep.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /ancientcanyon.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Here was the pretty view from our campsite just outside Canyons of the Ancients. If you look very carefully, you might be able to see the Painted Hand Pueblo in the bottom left-ish (it was a 5 minute hike from where we were sleeping!!! Very cool)&lt;/p&gt;
 
 &lt;p&gt;Then it was eastward bound once more. We skirted across the south of the state, blindly driving across the the Great Divide, when the Great Sand Dunes crawled towards us over the horizon. As per our combined nature, we climbed the highest dune we could immediately see and watched all the little dots of people below.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /greatsand1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes&quot;&gt;From the bottom&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /greatsand2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes&quot;&gt;From the top. Unusually green over there, no? It's because of the elevation, and the storms that get trapped around that range (that's the southeastern wall of the Great Divide, after all)&lt;/p&gt;
 
 &lt;p&gt;Afterwards, we splashed in the sandy, super-soft Medano Creek&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/greatsandcreek.jpg&quot; alt=&quot;&quot; class=&quot;blog-img text-line&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog/greatsandcreek.jpg&quot; alt=&quot;&quot; class=&quot;blog-img text-line&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;After the Dunes, we left the Great Divide and cleaned up in the city of Pueblo. We had crossed to the east of the Continental Divide for our first time since January. It was time to see some friends.&lt;/p&gt;
 
 &lt;p&gt;Hurrying up the Front Range through Denver, we were soon in the mythical city of Boulder, Colorado. In a blur of friends, family, hospitality, fun, and adventure, we hung out with: Lacey’s friend from high school/college Chelsea, and her boyfriend Rob; my friends from high and elementary schools, Matt and Mark (and his girlfriend, Kylie); my aunt, the same from Crested Butte, and a different cousin; all of their families, friends, and people we met while hiking, working, and exploring. It was an incredible time.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /dushanbe.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Some funny art outside of the adorable Dushanbe Tea House that Chelsea and Rob took us to see&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /boulderflower.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Some wildflowers in a short hike we went on&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /denvercat.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;We went to the Denver Cat Company, an incredible business filled with adorable, playful kitties&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /estes.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The High Point of the Rocky Mountain National Park road, near Estes Park. Mark and Kylie took us here, but the altitude (over 12000ft!), cold, and rain made it a short visit&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /moose.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;A moose we saw in Rocky Mountain NP! The first (living) one we've seen in the trip! Look carefully, and you'll see a lot of elk, too&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /nederfall.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;A waterfall we hiked to near the quirky town of Nederland&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /lostlake.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Lost Lake, upriver from those falls&lt;/p&gt;
 
 &lt;p&gt;After all the fun in Boulder, it was a strange mix of dread and excitement in the car as we departed on what is the last month or so of our journey. We made good time into Wyoming, and soon found ourselves at the Devil’s Tower.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /devilstower1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /devilstower2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;While the origins of the Tower are still a bit of a mystery, the prevailing theory is that the butte was created through lava upheaval through a small, ridged fracture in the crust while the nearby igneous Black Hills were forming. I like to think it's the stump of a billion-year-old tree. To each their own.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /prairiedog.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /deerdevils.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Some animal buddies we made while we were there.&lt;/p&gt;
 
 &lt;p&gt;Then, we crossed over into South Dakota, passed quickly through the biker Mecca known as Sturgis, showered at Rapid City, and ventured into the Black Hills, home to Mount Rushmore:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/rushmore.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog/rushmore.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Not pictured is the even-larger Mount Crazy Horse, as well as Jewel Cave National Monument and Wind Cave National Park. The two caves are winding, hundreds-mile-long channels through limestone that are mind-boggling in scale. Each was home to its own native formations that were astounding and beautiful. Cell phone cameras just do not do caves any justice, so you’ll just have to see them for yourself!&lt;/p&gt;
 
 &lt;p&gt;After the Black Hills we headed to some agate beds in Fairburn, SD, to see what exactly agate beds are! The beds were on the western edge of Badlands National Park, but we had to journey clockwise around the perimeter to enter the park. We camped in an incredible spot overlooking the Badlands themselves, and were woken by nomadic visitors at sunrise:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /badlandsheep.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;&quot;We are the Mountain Lords, traveling across the Baaaahdlands.&quot;&lt;/p&gt;
 
 &lt;p&gt;The Badlands were incredible, rainbow-striped lands in the grassiest-desert either of us had seen so far. They were not at all what we expected, and despite the rainy weather we were captivated by the beauty of nature.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /badlandshills1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /badlandshills2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Stripes of pink and gold, far as the eye can see&lt;/p&gt;
@@ -205,58 +205,58 @@ function simmerBackground() {
 &lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Mileage:&lt;/strong&gt; 29200&lt;/p&gt;
 &lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Weather:&lt;/strong&gt; Grey, rainy, 67F&lt;/p&gt;
 &lt;p class=&quot;blog-info ext-marg&quot;&gt;&lt;strong&gt;Currently listening to: Flamingosis - A Groovy Thing&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe class=&quot;blog-iframe&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x1-ODeXwq48&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Wow, July really flew by huh? The 4th feels like just the other day…</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chaosindivide.com/assets/images/blog/08032017s.jpg" /></entry><entry><title type="html">Across the Desert(s) pt. ii, UT/CO</title><link href="https://www.chaosindivide.com/blog/2017/07/09" rel="alternate" type="text/html" title="Across the Desert(s) pt. ii, UT/CO" /><published>2017-07-09T00:00:00-04:00</published><updated>2017-07-09T00:00:00-04:00</updated><id>https://www.chaosindivide.com/blog/2017/07/across-the-deserts-ii</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2017/07/09">&lt;p&gt;Man, is Utah still hot.&lt;/p&gt;
+&lt;iframe class=&quot;blog-iframe&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x1-ODeXwq48&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Wow, July really flew by huh? The 4th feels like just the other day…</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/08032017s.jpg" /></entry><entry><title type="html">Across the Desert(s) pt. ii, UT/CO</title><link href="http://localhost:4000/blog/2017/07/09" rel="alternate" type="text/html" title="Across the Desert(s) pt. ii, UT/CO" /><published>2017-07-09T00:00:00-04:00</published><updated>2017-07-09T00:00:00-04:00</updated><id>http://localhost:4000/blog/2017/07/across-the-deserts-ii</id><content type="html" xml:base="http://localhost:4000/blog/2017/07/09">&lt;p&gt;Man, is Utah still hot.&lt;/p&gt;
 
 &lt;p&gt;We’re actually now in Colorado, and the weather is hot and sunny (as always). We just left Utah - an incredible, arbitrarily-sliced portion of this continent with absurd laws - yesterday.&lt;/p&gt;
 
 &lt;p&gt;I last posted when we were in Bryce. Bryce Canyon is a wild-looking place covered in strange “hoodoos.” Hoodoos are sandstone formations created by a prehistoric sea that covered much of what we now call the North American Continent. The headward seawater came in and carved strange cavities in the Cenozoic Paunsaugant Plateau. The walls of those cavities further eroded as the sea receded, leaving behind towers aplenty:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /brycewall.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Wall Street!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /bryce1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The Bryce Ampitheater&lt;/p&gt;
 
 &lt;p&gt;Our first day in the park: we hiked the famous Navajo Loop, into the Peek-a-boo Loop, then finished with the Queen’s Garden before hopping back on the Navajo. It was a challenging little hike through the bulk of the amphitheater, but it was definitely rewarding:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /bryce2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /bryce3.jpg&quot; alt=&quot;&quot; class=&quot;blog-img text-line&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Perhaps as rewarding (yet quite surprising) was the fantastic pizza at Valhalla Pizzeria–a little cafe right in the park! The “frills” were paying off. After a delicious meal, we relaxed with a beer at the park lodge.&lt;/p&gt;
 
 &lt;p&gt;Day 2 of Bryce we hiked to the “Hat Shop,” or… thought we did. We hiked until the hoodoos were nowhere to be found, but didn’t see anything much crazier than the Amphitheater (a ranger had told us the Hat Shop was the most interesting formations in the park). We checked out nearby Bryce Point, which had great views. From there we drove to the highest point in the park, Rainbow Point, and hiked the Bristlecone Trail. The view was amazing, if a bit ominous from the nearby Brian Head Fire.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /brycept.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Bryce Point&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /rainbowpt1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /rainbowpt2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The &quot;cloud&quot; visible in these two photos is actually all smoke.&lt;/p&gt;
 
 &lt;p&gt;That afternoon, we happened to see the fire raging much closer.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /brianhd.jpg&quot; alt=&quot;&quot; class=&quot;blog-img text-line&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The next day we departed Bryce and headed north for a brief respite from the desert in the Pando Aspen Grove (AKA Pando Forest, Pando Tree, the Trembling Giant). Quaking aspen trees are in fact the stems of single lifeforms known as root clusters. Quaking aspens are also one of the few plants to be dioecious (having sexualized reproductive organs), and males can get quite large. Pando’s root cluster is believed to be over 80,000 years old, and his stems spread out over 100 acres! It was absolutely humbling to be in the presence of such a massive creature that appeared to my pitiful human mind to be many creatures. Despite some frustrations during our drive earlier in the day, we both sunk into a spiritual peace.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /pando1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /pando2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;It's worth noting: Wikipedia and a couple other high Google searches state that Pando appears to be dying, and in fact the sign in the grove itself states that &quot;the signs of decay are easily apparent around you&quot; (or something to that effect). Yet while we were there, we saw only a small stand - at the highest tops of the mountain - looking anything but healthy and green.&lt;/p&gt;
@@ -267,19 +267,19 @@ function simmerBackground() {
 
 &lt;p&gt;After the river valley, we returned to the heart of the desert for an awe-inspiring afternoon drive across steppes of rainbow sandstone that went on far as the eye could see. Our destinations were the Temples of the Sun and Moon, and the Gypsum Sinkhole. Gypsum is a soft mineral composed of calcium sulfate dihydrate. It’s a lot like really fine sandstone. When it gets near sandstone formations, it usually crumbles much sooner–leading to caves and sinkholes like this one I didn’t take a photo of. Woops.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /suntemple.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;PRAISE THE SUN (pretty lady on top of SUV for scale... she's there, I promise)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /moontemple.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;PRAISE THE MOON (SUV for scale)&lt;/p&gt;
 
 &lt;p&gt;We camped that evening on a mountainside, right next to some cows. Funny enough: we were pretty close to Pando again, and planned to return to the main part of Capitol Reef &lt;em&gt;again.&lt;/em&gt; But the drive to the campsite provided some pretty breathtaking panoramas, and the campsite itself was perfectly cool.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /capitolrama.jpg&quot; alt=&quot;&quot; class=&quot;blog-img text-line&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;On top of that… the breakfast we got in Loa, Utah the next morning was incredible. And we made a new friend of the waitress, Tracy!&lt;/p&gt;
@@ -290,52 +290,52 @@ function simmerBackground() {
 
 &lt;p&gt;The next few days we camped with Matt in BLM and National Forest land around Utah, while exploring both Canyonlands and Arches. On the 4th we went into Canyonlands…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /mesaarch.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Mesa Arch&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /grandview1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /grandview2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The Grandview at Canyonlands. This is the place where the Green River meets the Colorado, before the Colorado goes on to carve out the Grand Canyon. Just like the Grand Canyon, Canyonlands is made up of an inner and outer canyon. The first picture gives you a sense of just how large the outer canyon is. The inner canyon here is topped by a white limestone bench, creating weird &quot;hat tops&quot; along cliff edges you see in the second photo.&lt;/p&gt;
 
 &lt;p&gt;The next day we ventured back in for Upheaval Dome, an unusual crater with a bright green stone dome in the center.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /upheavaldome.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The cause of Upheaval Dome is still unclear. Was it a rising salt bed that pushed up through the floor of an ancient sea? Was it a meteorite? Lacey, Matt, and I all preferred the latter answer.&lt;/p&gt;
 
 &lt;p&gt;After an evening that hosted the 3rd, 4th, and 5th annual Swisher Cups of the game Yaniv, we headed to Arches in the morning. It was a real, real hot one, so we elected to stay near the road and do some shorter ventures.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /3gossips.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The Three Gossips&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /balancedrock1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /balancedrock2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The Balanced Rock&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /archeswindow.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The Window Arches&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /doublearches.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Double Arch&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /delicatefar.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Finally, Delicate Arch&lt;/p&gt;
@@ -346,7 +346,7 @@ function simmerBackground() {
 
 &lt;p&gt;After that, we had one last hike we wanted to do during &lt;em&gt;this&lt;/em&gt; visit to Moab area (there’s honestly so much in that part of Utah we plan to return for): Delicate Arch. The picture posted above was from the viewing area, still about a mile from the actual arch. The hike to the arch was only 3 miles roundtrip, but on our day visit with Matty we all agreed it was too hot for even that. Lacey and I trucked up that slickrock bluff, seeing many families that were a little underprepared for the heat.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /delicatenear.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Up close and personal (despite the families in front)&lt;/p&gt;
@@ -360,18 +360,18 @@ function simmerBackground() {
 &lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Mileage:&lt;/strong&gt; 26100&lt;/p&gt;
 &lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Weather:&lt;/strong&gt; Hot, breezy, 102F&lt;/p&gt;
 &lt;p class=&quot;blog-info ext-marg&quot;&gt;&lt;strong&gt;Currently listening to: Com Truise - Iteration&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe class=&quot;blog-iframe&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/O4Ri6vk-Vfk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Man, is Utah still hot.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chaosindivide.com/assets/images/blog/07092017s.jpg" /></entry><entry><title type="html">Across the Desert(s), CA/UT/AZ</title><link href="https://www.chaosindivide.com/blog/2017/06/26" rel="alternate" type="text/html" title="Across the Desert(s), CA/UT/AZ" /><published>2017-06-26T00:00:00-04:00</published><updated>2017-06-26T00:00:00-04:00</updated><id>https://www.chaosindivide.com/blog/2017/06/across-the-deserts</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2017/06/26">&lt;p&gt;Man, is Utah hot.&lt;/p&gt;
+&lt;iframe class=&quot;blog-iframe&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/O4Ri6vk-Vfk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Man, is Utah still hot.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/07092017s.jpg" /></entry><entry><title type="html">Across the Desert(s), CA/UT/AZ</title><link href="http://localhost:4000/blog/2017/06/26" rel="alternate" type="text/html" title="Across the Desert(s), CA/UT/AZ" /><published>2017-06-26T00:00:00-04:00</published><updated>2017-06-26T00:00:00-04:00</updated><id>http://localhost:4000/blog/2017/06/across-the-deserts</id><content type="html" xml:base="http://localhost:4000/blog/2017/06/26">&lt;p&gt;Man, is Utah hot.&lt;/p&gt;
 
 &lt;p&gt;Today is the first day we’ve experienced some sub-100-degree weather in the daytime since we left my dad’s house a few weeks ago. Hiking in the desert is challenging, rewarding, and just so… damn… hot.&lt;/p&gt;
 
 &lt;p&gt;From the Coachella Valley we headed northwest into Mojave National Preserve, camping at the base of the Kelso Sand Dunes. The next morning, we hiked to the top of the largest dune.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /kelso1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Over 800ft of prominence. When it's sand, that's a lot more than it sounds.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /kelso2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The view from the top.&lt;/p&gt;
@@ -380,7 +380,7 @@ function simmerBackground() {
 
 &lt;p&gt;Before we left Mojave, however, we explored an ancient lava river that cut across the desert, and even ventured down into a lava tube recommended to us by our trip buddy, &lt;a href=&quot;www.toggie.net&quot; target=&quot;_blank&quot;&gt;TToggs.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /lavatube.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The treasure was buried in this chamber, obviously.&lt;/p&gt;
@@ -389,34 +389,34 @@ function simmerBackground() {
 
 &lt;p&gt;Well technically, first we went up into the Kolob Canyons, 1000ft above Zion, and did some hiking there. But they’re in Zion NP, so it counts right?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /doublearch.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Double Arch Alcove, in Kolob Canyons&lt;/p&gt;
 
 &lt;p&gt;BUT THEN we went into Zion Canyon! Our first adventures in the canyon were to the Emerald Pools, the upper pool was under an incredible 2000ft sandstone alcove that was inhabited by hundreds of rock wrens and other birds. The pool itself was beautiful and shady, and didn’t even feel like it was in a desert. We were harassed by some very conditioned squirrels. Don’t feed the wildlife!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /zionsquirrel.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;It's so tough to say no to that face, though!&lt;/p&gt;
 
 &lt;p&gt;After the Emerald Pools was Weeping Rock, a giant porous sandstone alcove that… you guessed it, weeps water from its countless cracks and pores. The next day we were planning on hiking Angel’s Landing, a massive column overlook in the middle of the canyon. But we were so fortunate to get last minute passes to one of Zion’s most desired (and incredible) backcountry hikes: the Subway!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /subway1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /subway2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Technically the Left Fork of North Creek, this hike traverses some 4 miles of creek (yes, you're hiking IN the water) before you arrive at this incredible tunnel-like formation that gave the hike its social name.&lt;/p&gt;
 
 &lt;p&gt;After swimming in the waterfall pool at the end of the hike, and chatting with some fellow hikers (they were very envious of our last-minute reservations, you normally need to book more than 3 months in advance), we traveled back down the river. We then spent the evening back in St George, showering once again (you sweat A LOT when it’s over 110F outside. Who knew?). But the next day we were back to hiking in rivers, this time doing the Virgin River Narrows.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /narrows1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /narrows2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Appropriately named, no?&lt;/p&gt;
@@ -427,37 +427,37 @@ function simmerBackground() {
 
 &lt;p&gt;Now it was time for us to hike Angel’s Landing. We got up early so we would beat the sun, and beat it we did (it was still hot as sin). The climb to the Landing traverses some crazy-thin precipices, where some chains drilled into the rock are the only thing between you and a multi-thousand-foot fall. But the view was worth it.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /angels1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;From the bottom&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /angels2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /angels3.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Helllooooo down there!!&lt;/p&gt;
 
 &lt;p&gt;After the Landing it was “goodbye Zion Canyon” and hello civilization for awhile. A decent while, in the context of this trip–Lacey’s phone would no longer turn on, and so we needed to hang out in St. George for a few days while Verizon shipped her a new one. But hey, the weather was above 120 degrees more than a handful of those days, so we weren’t really complaining. I made &lt;a href=&quot;https://soundcloud.com/entro/n30n-demo&quot; target=&quot;_blank&quot;&gt;a few&lt;/a&gt; &lt;a href=&quot;https://soundcloud.com/entro/w4573l4nd&quot; target=&quot;_blank&quot;&gt;synthwavey&lt;/a&gt; &lt;a href=&quot;https://soundcloud.com/entro/pr0m-n16h7&quot; target=&quot;_blank&quot;&gt;songs,&lt;/a&gt; and we found some bismuth!!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /bismuth.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The most incredible mineral. It might be artificial, but I'm so in love with this piece.&lt;/p&gt;
 
 &lt;p&gt;Functioning cell phones in tow, we then headed south to return to a place we had not been in over 5 months: the Grand Canyon. This time, however, we were going to the North Rim! The North Rim is about 1000ft higher than the South, and is inaccessible most of the year. It’s also just… real far from everything, which means it doesn’t have anywhere near the same crowds as the South. It was beautiful and serene.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /GCnorth1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /angelswindow.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The Angel's Window&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /GCnorth2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Pretty lady takes in the view.&lt;/p&gt;
@@ -466,17 +466,17 @@ function simmerBackground() {
 
 &lt;p&gt;Something else that we didn’t do, was check out Horseshoe Bend.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /horseshoebend.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The 'schmutz' on my camera lens grows by the day.&lt;/p&gt;
 
 &lt;p&gt;From there, it was north into Grand Staircase-Escalante National Monument, a massive swath of desert wilderness in southern Utah. It’s named for the steps of colored cliffs that rise from north Arizona into central Utah, a breathtaking sight to behold. We did some hiking in dried riverbeds and tight canyons on our way across the wilderness, spending an evening in some blessedly-cool shade. We plan on returning to the Monument in a few days, to explore its slot canyons and other beauties.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /escalante.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /grosvenors.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Grosvenor's Arch&lt;/p&gt;
@@ -490,27 +490,27 @@ function simmerBackground() {
 &lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Mileage:&lt;/strong&gt; 24600&lt;/p&gt;
 &lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Weather:&lt;/strong&gt; Hot, breezy, 95F&lt;/p&gt;
 &lt;p class=&quot;blog-info ext-marg&quot;&gt;&lt;strong&gt;Currently listening to: RHCP&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe class=&quot;blog-iframe&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CwxeLqAoThw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Man, is Utah hot.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chaosindivide.com/assets/images/blog/06262017s.jpg" /></entry><entry><title type="html">West Coast Redux, OR/NV/CA</title><link href="https://www.chaosindivide.com/blog/2017/06/08" rel="alternate" type="text/html" title="West Coast Redux, OR/NV/CA" /><published>2017-06-08T00:00:00-04:00</published><updated>2017-06-08T00:00:00-04:00</updated><id>https://www.chaosindivide.com/blog/2017/06/west-coast-redux</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2017/06/08">&lt;p&gt;Hey hey, back again! These days we’re back in Southern California, spending some time with my family before the final leg of our adventure. It’s been a very lovely few days of sunshine and heat, with lots of kitchen-cooked meals–we missed them so!&lt;/p&gt;
+&lt;iframe class=&quot;blog-iframe&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CwxeLqAoThw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Man, is Utah hot.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/06262017s.jpg" /></entry><entry><title type="html">West Coast Redux, OR/NV/CA</title><link href="http://localhost:4000/blog/2017/06/08" rel="alternate" type="text/html" title="West Coast Redux, OR/NV/CA" /><published>2017-06-08T00:00:00-04:00</published><updated>2017-06-08T00:00:00-04:00</updated><id>http://localhost:4000/blog/2017/06/west-coast-redux</id><content type="html" xml:base="http://localhost:4000/blog/2017/06/08">&lt;p&gt;Hey hey, back again! These days we’re back in Southern California, spending some time with my family before the final leg of our adventure. It’s been a very lovely few days of sunshine and heat, with lots of kitchen-cooked meals–we missed them so!&lt;/p&gt;
 
 &lt;p&gt;During our time in Oregon - visiting Sam, Danielle, Allie, Charlie, Frank, Mochi, Bebe &amp;amp; Mama, and so many other beautiful creatures - we happened to visit another hot spring! So I’ve updated &lt;a href=&quot;../hostprings&quot;&gt;that post.&lt;/a&gt; After spending a magical week with the lovely people and animals of &lt;a href=&quot;http://tkoreserve.com/&quot; target=&quot;_blank&quot;&gt;TKO Reserve&lt;/a&gt;, it was time for us to return to Cali for the Sierra Nevadas we longed for. Appropriately after our visit on the farm, our first major destination was Weed, CA.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /mtshasta.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Mount Shasta, in Weed&lt;/p&gt;
 
 &lt;p&gt;Our real destination was Lake Tahoe, on the Nevada/California border. We wanted to drive along its shores for a bit, and chose to do that on the Nevada side (spending a pair of nights back in the real desert), after we passed through Reno and Silver City. It was still sort of the off-season, too late for skiing and too early for summer, but the lake seemed far more tranquil than either of us expected. The waters were clear as crystal.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/tahoe.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog/tahoe.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;From Tahoe, it was Yosemite ho! We took a few days driving down to the park, taking in the unique scenery of eastern California, and found ourselves there on a Friday. Doy, not the best timing. We were told by an employee of the park, some 4 miles from the entrance: “Yeah, right now it will take you about 2 to 3 hours to get into the Yosemite Valley.” Hours?! No, thank you.&lt;/p&gt;
 
 &lt;p&gt;So we went down the Merced River a bit, finding a good spot in the National Forest to take a swim. We actually started finding flakes of gold in the river! Gold country indeed.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /mercedswim1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /mercedswim2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Our private swim spot for the afternoon. Mind the poison oak!&lt;/p&gt;
@@ -521,31 +521,31 @@ function simmerBackground() {
 
 &lt;p&gt;But we had killed enough time! It was Yosemite or bust, and into the park we went. Despite the crowds, and the lines…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /yosemitefalls1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /halfdome.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The Yosemite Valley is incredible.&lt;/p&gt;
 
 &lt;p&gt;We spent the day admiring the powerful beauty of Yosemite’s waterfalls (and trying to find parking), and decided that we would return the park again someday with the intent to explore it fully. But late May was not the season to &lt;em&gt;escape&lt;/em&gt; to Yosemite.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /yosemitefalls2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;But seriously, incredible.&lt;/p&gt;
 
 &lt;p&gt;We were hardly bothered, for King’s Canyon and Sequoia National Parks were our real destination in the Sierra Nevadas. Stopping briefly in Fresno for showers already a week overdue, we struck west up the King’s Canyon highway and took it all the way to Road’s End.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /generalgrant.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Along our journey we met General Grant!&lt;/p&gt;
 
 &lt;p&gt;General Grant is a giant sequoia tree (Sequoiadendron giganteum), and is the second largest tree in the world! More on the largest later. We explored Grant’s Grove, a cluster of old growth, giant sequoias averaging over 1,500 years old! These trees are incredible; their bark is more similar to coconut fiber than the bark of any other tree I’ve seen before, they burn tremendous portions of their bodies yet continue to grow, and they are just so. darn. BIG!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /sequoiascale.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Pretty lady, for scale&lt;/p&gt;
@@ -554,7 +554,7 @@ function simmerBackground() {
 
 &lt;p&gt;And so we did! And from there we saw prescribed fires along the Canyon floor, on our hike up to the very aptly-named Mist Falls. After taking a quick shower (both in the falls and in the public showers offered by the park afterward!) we took some more showers in Grizzly Falls and Roaring River Falls–which were also aptly-named. The backcountry of King’s Canyon was closed still - as was the cavern in the National Forest - so we camped at the same spot as the night before.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /roaringriver.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Roaring River Falls&lt;/p&gt;
@@ -565,32 +565,32 @@ function simmerBackground() {
 
 &lt;p&gt;From there we headed to Redwood Mountain Grove, the densest grove of new-growth giant sequoias (still very large) in the world. We skirted the canyon in the grove, seeing hundreds of giant sequoias before descending into the canyon itself briefly, then climbing the other side. There was the Hart Tree (the only old-growth left in Redwood Mountain Grove), Bridge Tree, and a Tunnel Tree.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /bridgetree.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Bridge Tree&lt;/p&gt;
 
 &lt;p&gt;We also discovered one of the many unique natives to the Sierra Nevadas, the snowplant!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /snowplants.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;They are plants, not fungi, but parasitic! Feeding off of the mix of bacteria, fungi, and plants in the soil, &quot;snow plants&quot; got their name due to their ability to flower even in feet of snow.&lt;/p&gt;
 
 &lt;p&gt;It’s crazy the friends you’ll meet on a trip like ours. The morning after our Redwood Mountain dayhike, we ran into a van-dwelling couple from Massachusetts! Aaron and Chelsea were from Boston, moving to Denver but first doing a trip like ours. We immediately clicked, and joined them for a morning hike up Little Baldy. The weather played along beautifully.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/littlebaldy.jpg&quot; alt=&quot;&quot; class=&quot;blog-img text-line&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog/littlebaldy.jpg&quot; alt=&quot;&quot; class=&quot;blog-img text-line&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;After we went our separate ways, Lacey and I entered and explored Sequoia National Park! Disappointed to hear about the similarly snow-covered backcountry (although it is good for the sequoia trees!) our first hike was a little one to Tokopah Falls. It was Memorial Day Weekend now, and the crowds were growing. We were hoping to not let it deter us again.&lt;/p&gt;
 
 &lt;p&gt;Sadly, it did. While we did get to meet General Sherman, the largest (by weight and volume) tree/living thing on earth, the crowds became endless after our hike through the Giant Forest. However, on that hike we got to meet the Congress Grove, the House Grove, the Chieftain Sequoyah, and many other old-growth sequoias. So we made the best of it.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /generalsherman.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;General Sherman (well, most of him)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /sequoiameadow.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;One of the many, picturesque meadows of Sequoia NP&lt;/p&gt;
@@ -599,17 +599,17 @@ function simmerBackground() {
 
 &lt;p&gt;After the weekend we returned to Sequoia! Our first major destination was Crystal Cavern, a calcite cave about 3 miles long. Our tour guide was also from Massachusetts, and went to Smith College the same time I was at UMass! The remaining afternoon was spent exploring the Giant Forest further… where we happened upon the weirdest thing:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /antwar1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /antwar2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;A turf war between ants.&lt;/p&gt;
 
 &lt;p&gt;After wandering through more sequoia groves, our last goal was climbing the easily-underestimated Moro Rock. The view was a lot hazier than we would’ve hoped, but it still paid off:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/moro1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog/moro1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;From Moro Rock we departed Sequoia National Park, and returned to Fresno, but our goal was now Southern California. We crossed the deserts of the Central Valley (passing very close to Death Valley again), spent a day camping in the desert outside of Barstow before returning to my dad’s. We’ve now been in the Coachella Valley for a week, relaxing and doing some chores (Fe got all cleaned and oiled up again, she’s ready for the last leg!) in preparation for our last 2-4 month chunk.&lt;/p&gt;
 
@@ -623,13 +623,13 @@ function simmerBackground() {
 
 &lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Mileage:&lt;/strong&gt; 22800&lt;/p&gt;
 &lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Weather:&lt;/strong&gt; Hot, hazy, 102F&lt;/p&gt;
-&lt;p class=&quot;blog-info ext-marg&quot;&gt;&lt;strong&gt;Currently listening to my own attempts at house music&lt;/strong&gt;&lt;/p&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Hey hey, back again! These days we’re back in Southern California, spending some time with my family before the final leg of our adventure. It’s been a very lovely few days of sunshine and heat, with lots of kitchen-cooked meals–we missed them so!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chaosindivide.com/assets/images/blog/06082017s.jpg" /></entry><entry><title type="html">Yellowstone, MT/WY/ID</title><link href="https://www.chaosindivide.com/blog/2017/05/11" rel="alternate" type="text/html" title="Yellowstone, MT/WY/ID" /><published>2017-05-11T00:00:00-04:00</published><updated>2017-05-11T00:00:00-04:00</updated><id>https://www.chaosindivide.com/blog/2017/05/yellowstone</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2017/05/11">&lt;p&gt;Hello hello hello! We are here in grey-but-beautiful Oregon, taking some much-needed 4-walls time back with some very awesome friends. While we’ve both been keeping eyes on the insane political situation, it’s looking to be a very relaxing time. I expect I’ll also be updating my &lt;a href=&quot;../hotsprings/&quot; target=&quot;_blank&quot;&gt;hot springs list&lt;/a&gt; in the coming days.&lt;/p&gt;
+&lt;p class=&quot;blog-info ext-marg&quot;&gt;&lt;strong&gt;Currently listening to my own attempts at house music&lt;/strong&gt;&lt;/p&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Hey hey, back again! These days we’re back in Southern California, spending some time with my family before the final leg of our adventure. It’s been a very lovely few days of sunshine and heat, with lots of kitchen-cooked meals–we missed them so!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/06082017s.jpg" /></entry><entry><title type="html">Yellowstone, MT/WY/ID</title><link href="http://localhost:4000/blog/2017/05/11" rel="alternate" type="text/html" title="Yellowstone, MT/WY/ID" /><published>2017-05-11T00:00:00-04:00</published><updated>2017-05-11T00:00:00-04:00</updated><id>http://localhost:4000/blog/2017/05/yellowstone</id><content type="html" xml:base="http://localhost:4000/blog/2017/05/11">&lt;p&gt;Hello hello hello! We are here in grey-but-beautiful Oregon, taking some much-needed 4-walls time back with some very awesome friends. While we’ve both been keeping eyes on the insane political situation, it’s looking to be a very relaxing time. I expect I’ll also be updating my &amp;lt;a href=”http://localhost:4000/blog/2017/04/30”“&amp;gt;hot springs list&amp;lt;/a&amp;gt; in the coming days.&lt;/p&gt;
 
 &lt;p&gt;After touring the eastern reaches of the beautiful nation of Canada, we returned to the US through Alberta. Crossing at a tiny border station in Montana, we were quickly greeted by the sometimes-rare, sometimes-everywhere American icon, buffalo! Driving through the cloudy day, we found ourselves in the mountains of northern Montana in the evening, spending the night in the parking lot of a campground buried in snow. Our destination? Glacier National Park.&lt;/p&gt;
 
 &lt;p&gt;Unfortunately, the park was still largely buried in massive snowdrifts–like so many parts of the Rockies at this and most times of year–so we had to settle for some lighter hiking… that still lead us for miles across ice and slush. Sadly, the thick snow denied us any birds-eye view of the park’s namesake glaciers, but they were a pretty common sight nonetheless.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /fishlake.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Fish Lake&lt;/p&gt;
@@ -638,23 +638,23 @@ function simmerBackground() {
 
 &lt;p&gt;The US (and the world)’s first National Park, Yellowstone is a place both wholly American and completely unlike this Earth. Miles of brilliantly-colored thermal areas spewing steam, gas, and strange odors; jagged purple peaks over expansive valleys of grass and brush; and a tourism industry cooperating perfectly with some of the most adventurous backcountry adventurers in the nation, are just a few features of this massive, wild, and wonderful place. Our first day in the park was dedicated to the sites and sights we had heard about so much:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /oldfaithful.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Old Faithful,&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /grandprism1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /grandprism2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /grandprism3.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The Grand Prismatic Pool,&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /buffalo.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;and buffalo!!&lt;/p&gt;
@@ -663,10 +663,10 @@ function simmerBackground() {
 
 &lt;p&gt;The second day we had an amazing hot breakfast at the Running Bear Cafe, in West Yellowstone. It had been weeks since our last hot breakfast, and we were pretty pleased with ourselves after. The rest of the day was dedicated to the remaining thermal areas in the southern ends of the park: Lower Geyser Basin, Biscuit Basin, and Black Sand Basin.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /grandgeyser1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /grandgeyser2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Both of these photos are of the world's largest *predictable* geyser, Grand Geyser. We were lucky to see this one erupt, as it only happens every 9 hours... plus or minus 3 hours. But it erupts in blasts over 300ft tall!&lt;/p&gt;
@@ -677,21 +677,21 @@ function simmerBackground() {
 
 &lt;p&gt;From there we headed back into the park. We went to Gibbon Falls, Monument Geyser Basin, and Norris Geyser Basin. These thermal areas were far different (because they were far hotter) than the brilliantly-colored southern basins, giving them an even more alien look.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /norrisbasin.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Where Demons Roam&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/colorpool.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog/colorpool.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;At the end of the afternoon, we were even fortunate enough to see a momma grizzly and her cub! The pair were digging for roots in a field, but were far enough off for safety… sadly, that also means my crappy cell phone camera couldn’t get a good shot!&lt;/p&gt;
 
 &lt;p&gt;That evening we slept in the north end of the park, letting us come back to Mammoth Hot Springs more easily in the morning.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /mammothhotsprings1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /mammothhotsprings2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The springs here have formed impressive terraces all over a mountainside&lt;/p&gt;
@@ -700,7 +700,7 @@ function simmerBackground() {
 
 &lt;p&gt;That evening, we drove to Craters of the Moon National Monument, in Idaho.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /cratersmoon.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;An appropriately named place&lt;/p&gt;
@@ -716,7 +716,7 @@ function simmerBackground() {
 &lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Mileage:&lt;/strong&gt; 20800&lt;/p&gt;
 &lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Weather:&lt;/strong&gt; Grey, warm, 70F&lt;/p&gt;
 &lt;p class=&quot;blog-info ext-marg&quot;&gt;&lt;strong&gt;Currently listening to: ODESZA&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe class=&quot;blog-iframe&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/DFQHKifBXwE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Hello hello hello! We are here in grey-but-beautiful Oregon, taking some much-needed 4-walls time back with some very awesome friends. While we’ve both been keeping eyes on the insane political situation, it’s looking to be a very relaxing time. I expect I’ll also be updating my hot springs list in the coming days.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chaosindivide.com/assets/images/blog/05112017s.jpg" /></entry><entry><title type="html">Hot Springs</title><link href="https://www.chaosindivide.com/blog/2017/04/30" rel="alternate" type="text/html" title="Hot Springs" /><published>2017-04-30T00:00:00-04:00</published><updated>2017-04-30T00:00:00-04:00</updated><id>https://www.chaosindivide.com/blog/2017/04/hotsprings</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2017/04/30">&lt;p&gt;Hello again! For the few of you that actually regularly keep up with this blog, you’ll know that this post with somewhat deviate from my usual format… but I hope you’ll bear with me: I’m going to review some hot springs.&lt;/p&gt;
+&lt;iframe class=&quot;blog-iframe&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/DFQHKifBXwE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Hello hello hello! We are here in grey-but-beautiful Oregon, taking some much-needed 4-walls time back with some very awesome friends. While we’ve both been keeping eyes on the insane political situation, it’s looking to be a very relaxing time. I expect I’ll also be updating my &amp;lt;a href=”http://localhost:4000/blog/2017/04/30”“&amp;gt;hot springs list&amp;lt;/a&amp;gt; in the coming days.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/05112017s.jpg" /></entry><entry><title type="html">Hot Springs</title><link href="http://localhost:4000/blog/2017/04/30" rel="alternate" type="text/html" title="Hot Springs" /><published>2017-04-30T00:00:00-04:00</published><updated>2017-04-30T00:00:00-04:00</updated><id>http://localhost:4000/blog/2017/04/hotsprings</id><content type="html" xml:base="http://localhost:4000/blog/2017/04/30">&lt;p&gt;Hello again! For the few of you that actually regularly keep up with this blog, you’ll know that this post with somewhat deviate from my usual format… but I hope you’ll bear with me: I’m going to review some hot springs.&lt;/p&gt;
 
 &lt;p&gt;Hot springs are magical places. That’s something that can be said about a lot of places, and a lot of things… but hot springs have a sense of enchantment that really makes you feel at one with your self, your surroundings, your planet, and your place in this crazy tapestry we call the universe.&lt;/p&gt;
 
@@ -725,8 +725,8 @@ function simmerBackground() {
 &lt;p&gt;I’m going to compare the few PNW springs I’ve visited thusfar, but we’re planning on visiting some new ones when we revisit. I’ll be sure to update this post, then. That said, these are in order of how we visited them.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;hotspring-title&quot; href=&quot;https://www.google.com/maps/place/Big+Bend+Hot+Springs/@41.0223839,-121.9219072,17z/data=!3m1!4b1!4m5!3m4!1s0x54cd98f243b82549:0x7a8a2631f58863b!8m2!3d41.0223799!4d-121.9197185&quot; target=&quot;_blank&quot;&gt;Big Bend Hot Springs (TX)&lt;/a&gt;
-&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/hotsprings/4o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
-&lt;a href=&quot;https://www.google.com/maps/place/Big+Bend+Hot+Springs/@41.0223839,-121.9219072,17z/data=!3m1!4b1!4m5!3m4!1s0x54cd98f243b82549:0x7a8a2631f58863b!8m2!3d41.0223799!4d-121.9197185&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;img src=&quot;http://localhost:4000/assets/images/blog/hotsprings/4o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
+&lt;a href=&quot;https://www.google.com/maps/place/Big+Bend+Hot+Springs/@41.0223839,-121.9219072,17z/data=!3m1!4b1!4m5!3m4!1s0x54cd98f243b82549:0x7a8a2631f58863b!8m2!3d41.0223799!4d-121.9197185&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /hotsprings/bigbend.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p class=&quot;photo-cred&quot;&gt;Photo credit to &lt;a href=&quot;https://www.freeteaparty.org&quot;&gt;freeteaparty.org&lt;/a&gt;&lt;/p&gt;
 
@@ -739,8 +739,8 @@ function simmerBackground() {
 &lt;p&gt;Keep in mind that access to Big Bend requires an access fee, or purchase of an Annual Pass, which is at time-of-writing $80. Absolutely worth it if you plan on attending any National Parks this year.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;hotspring-title&quot; href=&quot;https://www.google.com/maps/place/Sol+Duc+Hot+Springs+Resort/@47.9701036,-123.8656887,17z/data=!3m1!4b1!4m5!3m4!1s0x548e44f02030a6ab:0xb5c24518f336e855!8m2!3d47.9701!4d-123.8635&quot; target=&quot;_blank&quot;&gt;Sol Duc Hot Springs (WA)&lt;/a&gt;
-&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/hotsprings/2o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
-&lt;a href=&quot;https://www.google.com/maps/place/Sol+Duc+Hot+Springs+Resort/@47.9701036,-123.8656887,17z/data=!3m1!4b1!4m5!3m4!1s0x548e44f02030a6ab:0xb5c24518f336e855!8m2!3d47.9701!4d-123.8635&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;img src=&quot;http://localhost:4000/assets/images/blog/hotsprings/2o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
+&lt;a href=&quot;https://www.google.com/maps/place/Sol+Duc+Hot+Springs+Resort/@47.9701036,-123.8656887,17z/data=!3m1!4b1!4m5!3m4!1s0x548e44f02030a6ab:0xb5c24518f336e855!8m2!3d47.9701!4d-123.8635&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /hotsprings/solduc.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p class=&quot;photo-cred&quot;&gt;Photo credit to &lt;a href=&quot;http://www.olympicnationalparks.com&quot;&gt;Olympic National Parks&lt;/a&gt;&lt;/p&gt;
 
@@ -749,8 +749,8 @@ function simmerBackground() {
 &lt;p&gt;The resort is not wholly affiliated with the Park - as far as we could tell - and has attached cabins and restaurant. The Park surrounds the nearby mountains, and it’s another place worth getting the Annual Pass for if you live in or visit the Northwest. However, expect some crowds.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;hotspring-title&quot; href=&quot;https://www.google.com/maps/place/Sloquet+Hot+Springs/@49.742027,-122.3032272,17z/data=!3m1!4b1!4m5!3m4!1s0x5486b83b5a4f8879:0x6862c94e3bf5083e!8m2!3d49.7420236!4d-122.3010385&quot; target=&quot;_blank&quot;&gt;Sloquet Hot Springs (BC)&lt;/a&gt;
-&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/hotsprings/5o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
-&lt;a href=&quot;https://www.google.com/maps/place/Sloquet+Hot+Springs/@49.742027,-122.3032272,17z/data=!3m1!4b1!4m5!3m4!1s0x5486b83b5a4f8879:0x6862c94e3bf5083e!8m2!3d49.7420236!4d-122.3010385&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;img src=&quot;http://localhost:4000/assets/images/blog/hotsprings/5o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
+&lt;a href=&quot;https://www.google.com/maps/place/Sloquet+Hot+Springs/@49.742027,-122.3032272,17z/data=!3m1!4b1!4m5!3m4!1s0x5486b83b5a4f8879:0x6862c94e3bf5083e!8m2!3d49.7420236!4d-122.3010385&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /hotsprings/sloquet.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Sloquet Hot Springs are the crown jewel of this list. Located in the heart of contemporary &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;Xa’xtsa First Nation&lt;/a&gt; land, in the Fraser Valley of British Columbia, Sloquet is a sacred place to peoples both ancient and living. Located next to a campground some 4 hours down high-clearance, dirt roads into the Valley, the springs come out scalding hot before cooling down in a steppe of faerie pools and flowing into the adjacent Sloquet Creek. The water is heavy with silt, leaves, and other debris, but don’t let that deter you. The running water, dreamcatchers hanging from nearby branches, and floating candle platforms give that place a feeling of true cleansing, and pure bliss.&lt;/p&gt;
@@ -760,8 +760,8 @@ function simmerBackground() {
 &lt;p&gt;As I said, it takes hours to get to these springs, and even though they show up in Google Maps they are not the easiest to find. Don’t worry if you can’t make it up the difficult road, there is the Harrison Hot Springs Resort located at the southern end of the valley just in case. If you do use a digital GPS: make sure you keep driving down the road past the marker, until you see the sign for the Rec Site and Campground. There is a fee for both day use of the hot spring and/or camping, so be sure to bring your Loonies and 2nies. And most of all–and this goes for all of the above and below–be respectful of this place and the people supporting it, and leave it better than you found it.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;hotspring-title&quot; href=&quot;https://www.google.com/maps/place/Clear+Creek+Hot+Spring/@49.685765,-121.7423981,17z/data=!3m1!4b1!4m5!3m4!1s0x548153e3844dfef3:0xe89a56c4f2356d94!8m2!3d49.6857615!4d-121.7402094&quot; target=&quot;_blank&quot;&gt;Clear Creek Hot Springs (BC)&lt;/a&gt;
-&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/hotsprings/3o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
-&lt;a href=&quot;https://www.google.com/maps/place/Clear+Creek+Hot+Spring/@49.685765,-121.7423981,17z/data=!3m1!4b1!4m5!3m4!1s0x548153e3844dfef3:0xe89a56c4f2356d94!8m2!3d49.6857615!4d-121.7402094&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;img src=&quot;http://localhost:4000/assets/images/blog/hotsprings/3o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
+&lt;a href=&quot;https://www.google.com/maps/place/Clear+Creek+Hot+Spring/@49.685765,-121.7423981,17z/data=!3m1!4b1!4m5!3m4!1s0x548153e3844dfef3:0xe89a56c4f2356d94!8m2!3d49.6857615!4d-121.7402094&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /hotsprings/clearcreek.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p class=&quot;photo-cred&quot;&gt;Photo credit to &lt;a href=&quot;http://www.panoramio.com/photo/50970546&quot;&gt;Nicolai Hilckmann&lt;/a&gt;&lt;/p&gt;
 
@@ -770,8 +770,8 @@ function simmerBackground() {
 &lt;p&gt;The nice part about these springs is that they are totally free - save the 3 to 4 hour high-clearance trek it may take you to get there from Harrison - and you can camp virtually anywhere in the surrounding area so long as you’re not interfering with the loggers. Because of this, expect pretty big crowds relative to the pool size (especially on weekends), and lots of kids/drunk people. As stated, try to clean this place up when you come, rather than leave it worse, as it needs all the love it can get. There are some pretty solid changing shelters here, so you can keep your towel out of the frequent rains.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;hotspring-title&quot; href=&quot;https://www.google.com/maps/place/Ainsworth+Hot+Springs+Resort/@49.73555,-116.9133784,17z/data=!3m1!4b1!4m5!3m4!1s0x537b5bc078e91765:0xcfec44ea87cba4ac!8m2!3d49.7355466!4d-116.9111897&quot; target=&quot;_blank&quot;&gt;Ainsworth Hot Springs Resort (BC)&lt;/a&gt;
-&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/hotsprings/3o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
-&lt;a href=&quot;https://www.google.com/maps/place/Ainsworth+Hot+Springs+Resort/@49.73555,-116.9133784,17z/data=!3m1!4b1!4m5!3m4!1s0x537b5bc078e91765:0xcfec44ea87cba4ac!8m2!3d49.7355466!4d-116.9111897&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;img src=&quot;http://localhost:4000/assets/images/blog/hotsprings/3o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
+&lt;a href=&quot;https://www.google.com/maps/place/Ainsworth+Hot+Springs+Resort/@49.73555,-116.9133784,17z/data=!3m1!4b1!4m5!3m4!1s0x537b5bc078e91765:0xcfec44ea87cba4ac!8m2!3d49.7355466!4d-116.9111897&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /hotsprings/ainsworth.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p class=&quot;photo-cred&quot;&gt;Photo credit to &lt;a href=&quot;http://www.ainsworthhotsprings.com/&quot;&gt;Ainsworth Hot Springs&lt;/a&gt;&lt;/p&gt;
 
@@ -782,8 +782,8 @@ function simmerBackground() {
 &lt;p&gt;Funnily enough, we came up to Ainsworth to locate some backcountry hot springs above the resort, which we could not locate even after some extensive snow-searching. The staff all denied the existence of the springs, but I found that hard to believe.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;hotspring-title&quot; href=&quot;https://www.google.com/maps/place/Lussier+Hot+Springs/@50.1352446,-115.5791156,17z/data=!3m1!4b1!4m5!3m4!1s0x537abdb73c7b4e89:0x9744b3de56a0773a!8m2!3d50.1352389!4d-115.5769263&quot; target=&quot;_blank&quot;&gt;Lussier Hot Springs (BC)&lt;/a&gt;
-&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/hotsprings/4o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
-&lt;a href=&quot;https://www.google.com/maps/place/Lussier+Hot+Springs/@50.1352446,-115.5791156,17z/data=!3m1!4b1!4m5!3m4!1s0x537abdb73c7b4e89:0x9744b3de56a0773a!8m2!3d50.1352389!4d-115.5769263&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;img src=&quot;http://localhost:4000/assets/images/blog/hotsprings/4o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
+&lt;a href=&quot;https://www.google.com/maps/place/Lussier+Hot+Springs/@50.1352446,-115.5791156,17z/data=!3m1!4b1!4m5!3m4!1s0x537abdb73c7b4e89:0x9744b3de56a0773a!8m2!3d50.1352389!4d-115.5769263&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /hotsprings/lussier.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Lussier Hot Springs, one of the two Whiteswan Lake/Top of the World Provincial Parks springs (the other being Ram Creek, in Top of the World), is a lovely series of natural faerie pools located adjacent to the cold, glacial waters of the Lussier River. The top pool is a toasty 110F or more, while the bottom pools vary in temperature and flow depending on how recently the visitors have shored up the walls. When we were there, we improved the upper wall of a chilly, bottom pool and had it above 100F in an hour! The water is highly bacterial and sulfuric, so be sure to keep your head above water in the pools unless you’re really into that sort of thing. Many locals drink the river water over the nearby tap, however, so there’s that.&lt;/p&gt;
@@ -793,8 +793,8 @@ function simmerBackground() {
 &lt;p&gt;Expect crowds pretty much any day of the week, but particularly on weekends. It’s enough of a “hidden” spot that you’ll mostly encounter Canadian visitors, however, and they’re all nice as can be.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;hotspring-title&quot; href=&quot;https://www.google.com/maps/place/Banff+Upper+Hot+Springs/@51.1509479,-115.5620446,18z/data=!3m1!4b1!4m5!3m4!1s0x5370ca1fff7ffd63:0xfbbe22e3b370c766!8m2!3d51.1511404!4d-115.5610283&quot; target=&quot;_blank&quot;&gt;Banff Upper Hot Springs Resort (AB)&lt;/a&gt;
-&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/hotsprings/2o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
-&lt;a href=&quot;https://www.google.com/maps/place/Banff+Upper+Hot+Springs/@51.1509479,-115.5620446,18z/data=!3m1!4b1!4m5!3m4!1s0x5370ca1fff7ffd63:0xfbbe22e3b370c766!8m2!3d51.1511404!4d-115.5610283&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;img src=&quot;http://localhost:4000/assets/images/blog/hotsprings/2o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
+&lt;a href=&quot;https://www.google.com/maps/place/Banff+Upper+Hot+Springs/@51.1509479,-115.5620446,18z/data=!3m1!4b1!4m5!3m4!1s0x5370ca1fff7ffd63:0xfbbe22e3b370c766!8m2!3d51.1511404!4d-115.5610283&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /hotsprings/banff.JPG&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p class=&quot;photo-cred&quot;&gt;Photo credit to &lt;a href=&quot;http://www.weekendnotes.com&quot;&gt;weekendnotes.com&lt;/a&gt;&lt;/p&gt;
 
@@ -805,8 +805,8 @@ function simmerBackground() {
 &lt;p&gt;While I wouldn’t necessarily recommend this spot to anyone looking to find a special hot spring, it’s certainly a place worth visiting if you are already in the area.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;hotspring-title&quot; href=&quot;https://www.google.com/maps/place/Umpqua+Hot+Springs+Trailhead/@43.2933548,-122.3672998,17z/data=!3m1!4b1!4m5!3m4!1s0x54c6f774a8f5752f:0xb42197a869263c27!8m2!3d43.287826!4d-122.389411&quot; target=&quot;_blank&quot;&gt;Umpqua Hot Springs (OR)&lt;/a&gt;
-&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog/hotsprings/3o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
-&lt;a href=&quot;https://www.google.com/maps/place/Banff+Upper+Hot+Springs/@51.1509479,-115.5620446,18z/data=!3m1!4b1!4m5!3m4!1s0x5370ca1fff7ffd63:0xfbbe22e3b370c766!8m2!3d51.1511404!4d-115.5610283&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;img src=&quot;http://localhost:4000/assets/images/blog/hotsprings/3o5.png&quot; alt=&quot;&quot; class=&quot;hot-springs-stars&quot; /&gt;
+&lt;a href=&quot;https://www.google.com/maps/place/Banff+Upper+Hot+Springs/@51.1509479,-115.5620446,18z/data=!3m1!4b1!4m5!3m4!1s0x5370ca1fff7ffd63:0xfbbe22e3b370c766!8m2!3d51.1511404!4d-115.5610283&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /hotsprings/umpqua.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p class=&quot;photo-cred&quot;&gt;Photo credit to &lt;a href=&quot;https://www.pinterest.com&quot;&gt;pinterest.com&lt;/a&gt;&lt;/p&gt;
 
@@ -820,11 +820,11 @@ function simmerBackground() {
 
 &lt;p&gt;Whether it’s deep in the woods or built like a public pool, a hot spring is a very special place and should be treated as such. Enjoy these beautiful places, but do not alter them. And if you must change these places, leave them better than you found them, so that others may experience the same magical waters.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading. As I said, this post will be occasionally updated. Check back every now and then!&lt;/p&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Hello again! For the few of you that actually regularly keep up with this blog, you’ll know that this post with somewhat deviate from my usual format… but I hope you’ll bear with me: I’m going to review some hot springs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chaosindivide.com/assets/images/blog/04302017s.jpg" /></entry><entry><title type="html">Oh Canada, BC</title><link href="https://www.chaosindivide.com/blog/2017/04/23" rel="alternate" type="text/html" title="Oh Canada, BC" /><published>2017-04-23T00:00:00-04:00</published><updated>2017-04-23T00:00:00-04:00</updated><id>https://www.chaosindivide.com/blog/2017/04/oh-canada</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2017/04/23">&lt;p&gt;The tour-de-northwest continues, but now we find ourselves deep within the heart of British Columbia. The country is gorgeous, the people are incredibly nice, and we reek like homeless people (no Planet Fitnesses in this part of Canada means we haven’t showered since the last blog post… yummy)&lt;/p&gt;
+&lt;p&gt;Thanks for reading. As I said, this post will be occasionally updated. Check back every now and then!&lt;/p&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Hello again! For the few of you that actually regularly keep up with this blog, you’ll know that this post with somewhat deviate from my usual format… but I hope you’ll bear with me: I’m going to review some hot springs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/04302017s.jpg" /></entry><entry><title type="html">Oh Canada, BC</title><link href="http://localhost:4000/blog/2017/04/23" rel="alternate" type="text/html" title="Oh Canada, BC" /><published>2017-04-23T00:00:00-04:00</published><updated>2017-04-23T00:00:00-04:00</updated><id>http://localhost:4000/blog/2017/04/oh-canada</id><content type="html" xml:base="http://localhost:4000/blog/2017/04/23">&lt;p&gt;The tour-de-northwest continues, but now we find ourselves deep within the heart of British Columbia. The country is gorgeous, the people are incredibly nice, and we reek like homeless people (no Planet Fitnesses in this part of Canada means we haven’t showered since the last blog post… yummy)&lt;/p&gt;
 
 &lt;p&gt;Hanging in the Bellingham, WA area, we found ourselves some local hiking spots with some beautiful views. We hiked the popular Oyster Dome trail - up the side of Mount Blanchard and overlooking the Samish Bay - and spent an afternoon high above what seemed like a thousand tiny oceans instead of one great bay. We watched a couple of parasailers taking off from the top of the mountain, in what seemed like suicidal leaps that went up instead of down…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /oyster.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;View from the dome!&lt;/p&gt;
@@ -833,14 +833,14 @@ function simmerBackground() {
 
 &lt;p&gt;Then we made the Pacific Crossing into Surrey, BC! The border had a decent queue, but after we crossed traffic was nothing until we made it to the outskirts of Vancouver. It was already late in the day, so we found ourselves a campsite north of the city, along the breathtaking Sea-to-Sky Highway.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /seatosky1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;View from our campsite. Not bad!&lt;/p&gt;
 
 &lt;p&gt;The next day was my birthday! It was a rainy day, but awesome nonetheless. We started by heading to the Capilano Valley Salmon Hatchery. Seems like a weird place to go, but it was actually very beautiful and super cool to see all the little fries and parrs (fancy words for juvenile salmonids!)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /salmon.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Little salmon fries!&lt;/p&gt;
@@ -849,7 +849,7 @@ function simmerBackground() {
 
 &lt;p&gt;The gallery was host to some very cool exhibits. The main exhibit was for Musqueam Coast Salish (a First Nation local to the coastal BC area) sculptor, Susan Point. She utilized a variety of mediums - in particular, local red cedar - to make traditional Salish designs that looked like thousands of birds in flight, fish swimming, and much more. Salish art invokes tons of flowing, animalistic imagery that is just beautiful. I kept mentioning to Lacey that I’d love to have a Salish tattoo–if it wasn’t heinous cultural appropriation.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /susanpoint.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;&quot;Beyond the Edge&quot;&lt;/p&gt;
@@ -860,24 +860,24 @@ function simmerBackground() {
 
 &lt;p&gt;On the contrary, we then walked a stretch of impoverished Vancouver that was SWARMING with homeless people. It was astounding, seeing so many people on the streets like that. Never mind the fact that they were shooting up heroin, snorting cocaine, and doing who-knows what else all in plain sight on the street. It was a bizarre but eye-opening experience. The homeless population of North America is much, much higher than I think most average people realize, and certainly greater than our governments are willing to acknowledge. It’s very strange to witness, but we see it everywhere on our journeys. Cities, countryside, suburbs… homeless everywhere! Anyway, after that we took a long walk around Stanley Park, a lovely island park jutting out into the Vancouver Bay. Finally, we headed to Granville Street - we were told it was the main drag in Vancouver - and grabbed some pizza for dinner (it was so-so, definitely better than some American pizza I’ve had, but the crust had sesame seeds all over it?) before heading back to our campsite once more.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /stanleypark.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;A lovely statue in the Vancouver Bay&lt;/p&gt;
 
 &lt;p&gt;The next day we headed to Lynn Canyon, similar to Capilano but without the salmon hatchery. But there was an awesome suspension bridge over a beautiful, rushing river rife with cascading waterfalls. Trade-offs, ya know? We hiked around the canyon, and nearby Rice Lake, and the sun even came out!!! We took advantage of the beautiful weather, and struck northward along the Sea-to-Sky Highway for the final time. We passed our campsite, and continued north all the way to Whistler (host of the 2010 Winter Olympics! lol), where we slept for the evening.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /lynnwood.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;The Lynnwood Suspension Bridge&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /ricelake.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;Rice Lake&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/blog
 /seatosky2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;quotes text-line&quot;&gt;View from the drive!&lt;/p&gt;
@@ -891,4 +891,4 @@ function simmerBackground() {
 &lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Mileage:&lt;/strong&gt; 17400&lt;/p&gt;
 &lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Weather:&lt;/strong&gt; Gray, rainy, 62F&lt;/p&gt;
 &lt;p class=&quot;blog-info ext-marg&quot;&gt;&lt;strong&gt;Currently listening to: &lt;/strong&gt;Nicolas Jaar - Against All Logic&lt;/p&gt;
-&lt;iframe class=&quot;blog-iframe&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IwzAoay_hV8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">The tour-de-northwest continues, but now we find ourselves deep within the heart of British Columbia. The country is gorgeous, the people are incredibly nice, and we reek like homeless people (no Planet Fitnesses in this part of Canada means we haven’t showered since the last blog post… yummy)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chaosindivide.com/assets/images/blog/04232017s.jpg" /></entry></feed>
+&lt;iframe class=&quot;blog-iframe&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IwzAoay_hV8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">The tour-de-northwest continues, but now we find ourselves deep within the heart of British Columbia. The country is gorgeous, the people are incredibly nice, and we reek like homeless people (no Planet Fitnesses in this part of Canada means we haven’t showered since the last blog post… yummy)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/04232017s.jpg" /></entry></feed>
