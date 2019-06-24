@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.chaosindivide.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.chaosindivide.com/" rel="alternate" type="text/html" /><updated>2019-03-17T20:59:00-04:00</updated><id>https://www.chaosindivide.com/feed.xml</id><title type="html">CHAOS IN DIVIDE</title><subtitle>In Entropy, Find Peace.</subtitle><entry><title type="html">The Return</title><link href="https://www.chaosindivide.com/blog/2019/03/13" rel="alternate" type="text/html" title="The Return" /><published>2019-03-13T00:00:00-04:00</published><updated>2019-03-13T00:00:00-04:00</updated><id>https://www.chaosindivide.com/blog/2019/03/the-return</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2019/03/13">&lt;p&gt;I’m back.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.chaosindivide.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.chaosindivide.com/" rel="alternate" type="text/html" /><updated>2019-06-24T19:15:14-04:00</updated><id>https://www.chaosindivide.com/feed.xml</id><title type="html">CHAOS IN DIVIDE</title><subtitle>In Entropy, Find Peace.</subtitle><entry><title type="html">3AM in Ventura</title><link href="https://www.chaosindivide.com/blog/2019/06/24" rel="alternate" type="text/html" title="3AM in Ventura" /><published>2019-06-24T00:00:00-04:00</published><updated>2019-06-24T00:00:00-04:00</updated><id>https://www.chaosindivide.com/blog/2019/06/3am-in-ventura</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2019/06/24">&lt;iframe width=&quot;100%&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/641570706&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Well, just like before, it seems I don’t use my blog that often, but I was excited about this tune. Maybe it’ll encourage me to do some more in the future?!&lt;/p&gt;</content><author><name>seizer</name></author><summary type="html"></summary></entry><entry><title type="html">The Return</title><link href="https://www.chaosindivide.com/blog/2019/03/13" rel="alternate" type="text/html" title="The Return" /><published>2019-03-13T00:00:00-04:00</published><updated>2019-03-13T00:00:00-04:00</updated><id>https://www.chaosindivide.com/blog/2019/03/the-return</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2019/03/13">&lt;p&gt;I’m back.&lt;/p&gt;
 
 &lt;p&gt;I’ve made a return to the blogosphere. I am experimenting with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, a Ruby extension that allows for fun and easy static site generation. We’ll see how long I stick with it, but for now, it seems pretty cool.&lt;/p&gt;
 
@@ -6,6 +9,8 @@
 
 &lt;p&gt;Thanks for checking in, stay tuned!&lt;/p&gt;</content><author><name>entro</name></author><category term="entro" /><summary type="html">I’m back.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chaosindivide.com/assets/images/blog/passing.jpg" /></entry><entry><title type="html">SteamHeart 0.0.1</title><link href="https://www.chaosindivide.com/blog/2018/12/27" rel="alternate" type="text/html" title="SteamHeart 0.0.1" /><published>2018-12-27T00:00:00-05:00</published><updated>2018-12-27T00:00:00-05:00</updated><id>https://www.chaosindivide.com/blog/2018/12/steamheart-001</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2018/12/27">&lt;p&gt;Despite its flaws, I am very proud to announce something:
 I have a game demo.&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;script&gt;
 function simmerBackground() {
@@ -19,8 +24,6 @@ function simmerBackground() {
 &lt;iframe class=&quot;blog-iframe simmer-frame&quot; onload=&quot;simmerBackground&quot; src=&quot;https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FFjCzUyicfNXRxmiLihtKe5tqocW2%2Fcontent%2Ffef8cab1-d84a-22f3-5e73-b31a69505c01&amp;amp;imagePath=screens/0.png&quot; style=&quot;width: 100%;
     height: 320px;
     border: none;&quot;&gt;&lt;/iframe&gt;
-
-&lt;!--more--&gt;
 
 &lt;p&gt;First and foremost, the art and animations are practically non-existant. Those are for later.&lt;/p&gt;
 
@@ -820,75 +823,4 @@ function simmerBackground() {
 
 &lt;p&gt;Whether it’s deep in the woods or built like a public pool, a hot spring is a very special place and should be treated as such. Enjoy these beautiful places, but do not alter them. And if you must change these places, leave them better than you found them, so that others may experience the same magical waters.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading. As I said, this post will be occasionally updated. Check back every now and then!&lt;/p&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Hello again! For the few of you that actually regularly keep up with this blog, you’ll know that this post with somewhat deviate from my usual format… but I hope you’ll bear with me: I’m going to review some hot springs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chaosindivide.com/assets/images/blog/04302017s.jpg" /></entry><entry><title type="html">Oh Canada, BC</title><link href="https://www.chaosindivide.com/blog/2017/04/23" rel="alternate" type="text/html" title="Oh Canada, BC" /><published>2017-04-23T00:00:00-04:00</published><updated>2017-04-23T00:00:00-04:00</updated><id>https://www.chaosindivide.com/blog/2017/04/oh-canada</id><content type="html" xml:base="https://www.chaosindivide.com/blog/2017/04/23">&lt;p&gt;The tour-de-northwest continues, but now we find ourselves deep within the heart of British Columbia. The country is gorgeous, the people are incredibly nice, and we reek like homeless people (no Planet Fitnesses in this part of Canada means we haven’t showered since the last blog post… yummy)&lt;/p&gt;
-
-&lt;p&gt;Hanging in the Bellingham, WA area, we found ourselves some local hiking spots with some beautiful views. We hiked the popular Oyster Dome trail - up the side of Mount Blanchard and overlooking the Samish Bay - and spent an afternoon high above what seemed like a thousand tiny oceans instead of one great bay. We watched a couple of parasailers taking off from the top of the mountain, in what seemed like suicidal leaps that went up instead of down…&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
-/oyster.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;quotes text-line&quot;&gt;View from the dome!&lt;/p&gt;
-
-&lt;p&gt;After that we did some laundry and grocery shopping, in preparation for our crossing into Canada. I also finally joined Club Moab (not the bomb…), and got myself some new hiking boots. Thanks momma!!! My old ones are basically destroyed, having seen their fair share of use on the trail, and I’ve heard lots of good things about Merrells. I also became an REI member! Cool.&lt;/p&gt;
-
-&lt;p&gt;Then we made the Pacific Crossing into Surrey, BC! The border had a decent queue, but after we crossed traffic was nothing until we made it to the outskirts of Vancouver. It was already late in the day, so we found ourselves a campsite north of the city, along the breathtaking Sea-to-Sky Highway.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
-/seatosky1.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;quotes text-line&quot;&gt;View from our campsite. Not bad!&lt;/p&gt;
-
-&lt;p&gt;The next day was my birthday! It was a rainy day, but awesome nonetheless. We started by heading to the Capilano Valley Salmon Hatchery. Seems like a weird place to go, but it was actually very beautiful and super cool to see all the little fries and parrs (fancy words for juvenile salmonids!)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
-/salmon.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;quotes text-line&quot;&gt;Little salmon fries!&lt;/p&gt;
-
-&lt;p&gt;The surrounding valley was also home to a very impressive dam, a beautiful lake, and a number of old-growth fir trees–one over 1500 years old! Trees are crazy, man. Afterwards we headed downtown to check out the Vancouver Art Gallery (they have a donation night every Tuesday!) and ran into a group of kids ‘protesting’ marijuana laws… but really they were just smoking weed in public all day. They smoked us up (a very pleasant surprise) and we headed into the gallery excited to view some art.&lt;/p&gt;
-
-&lt;p&gt;The gallery was host to some very cool exhibits. The main exhibit was for Musqueam Coast Salish (a First Nation local to the coastal BC area) sculptor, Susan Point. She utilized a variety of mediums - in particular, local red cedar - to make traditional Salish designs that looked like thousands of birds in flight, fish swimming, and much more. Salish art invokes tons of flowing, animalistic imagery that is just beautiful. I kept mentioning to Lacey that I’d love to have a Salish tattoo–if it wasn’t heinous cultural appropriation.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
-/susanpoint.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;quotes text-line&quot;&gt;&quot;Beyond the Edge&quot;&lt;/p&gt;
-
-&lt;p&gt;After the gallery we went to Earl’s Test Kitchen for a birthday dinner! The food and beer was awesome. I had heard of the place before, but was very impressed by everything we got. It was a great meal, and from there we headed back to our lovely campsite with full bellies and big grins. A wonderful birthday, it was.&lt;/p&gt;
-
-&lt;p&gt;The next day met us with even more rain (we were pretty fed up at this point, but far from done with being perpetually damp), and we headed back downtown to try and see Dr. Sun Yat-Sen Classical Chinese Garden… but it was closed! Lame. So instead we walked around Chinatown for a little, checking out all the cute/weird/creepy Chinese markets and groceries and reading all the little blurbs about the history of Chinatown. Vancouver is an impressively diverse city (I’ve read it’s the most diverse city in the word, but can’t find that citation now), and it was cool to see the mix of cultures… it’s a melting pot that &lt;em&gt;should&lt;/em&gt; make the US envious.&lt;/p&gt;
-
-&lt;p&gt;On the contrary, we then walked a stretch of impoverished Vancouver that was SWARMING with homeless people. It was astounding, seeing so many people on the streets like that. Never mind the fact that they were shooting up heroin, snorting cocaine, and doing who-knows what else all in plain sight on the street. It was a bizarre but eye-opening experience. The homeless population of North America is much, much higher than I think most average people realize, and certainly greater than our governments are willing to acknowledge. It’s very strange to witness, but we see it everywhere on our journeys. Cities, countryside, suburbs… homeless everywhere! Anyway, after that we took a long walk around Stanley Park, a lovely island park jutting out into the Vancouver Bay. Finally, we headed to Granville Street - we were told it was the main drag in Vancouver - and grabbed some pizza for dinner (it was so-so, definitely better than some American pizza I’ve had, but the crust had sesame seeds all over it?) before heading back to our campsite once more.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
-/stanleypark.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;quotes text-line&quot;&gt;A lovely statue in the Vancouver Bay&lt;/p&gt;
-
-&lt;p&gt;The next day we headed to Lynn Canyon, similar to Capilano but without the salmon hatchery. But there was an awesome suspension bridge over a beautiful, rushing river rife with cascading waterfalls. Trade-offs, ya know? We hiked around the canyon, and nearby Rice Lake, and the sun even came out!!! We took advantage of the beautiful weather, and struck northward along the Sea-to-Sky Highway for the final time. We passed our campsite, and continued north all the way to Whistler (host of the 2010 Winter Olympics! lol), where we slept for the evening.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
-/lynnwood.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;quotes text-line&quot;&gt;The Lynnwood Suspension Bridge&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
-/ricelake.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;quotes text-line&quot;&gt;Rice Lake&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.chaosindivide.com/assets/images/blog
-/seatosky2.jpg&quot; alt=&quot;&quot; class=&quot;blog-img&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;quotes text-line&quot;&gt;View from the drive!&lt;/p&gt;
-
-&lt;p&gt;The next leg of our adventure is still in-progress, and I’m planning on writing a more dedicated post about it… but to summarize: we’re taking a hot springs tour of British Columbia! We’ve found a slew of free, natural hot springs between Whistler and Banff (our final Canadian destination), and have made it our goal to stop at each one as we work our way across the province. We’re currently 2 down, 3 to go! The first two hot springs were close to one another, within the Fraser Valley (southeast of Whistler, northeast of Vancouver), and getting to each was an adventure of its own.&lt;/p&gt;
-
-&lt;p&gt;As I said, I plan to write a post specifically about this portion of the adventure… but for now, we’re having a ‘civilization day’ in Penticton, BC (after driving hours out of the wilderness) before we strike out on another long drive for our next hot spring! We expect to be in Banff in the next week or so.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading, stay tuned for more!!&lt;/p&gt;
-
-&lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Mileage:&lt;/strong&gt; 17400&lt;/p&gt;
-&lt;p class=&quot;blog-info&quot;&gt;&lt;strong&gt;Weather:&lt;/strong&gt; Gray, rainy, 62F&lt;/p&gt;
-&lt;p class=&quot;blog-info ext-marg&quot;&gt;&lt;strong&gt;Currently listening to: &lt;/strong&gt;Nicolas Jaar - Against All Logic&lt;/p&gt;
-&lt;iframe class=&quot;blog-iframe&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IwzAoay_hV8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">The tour-de-northwest continues, but now we find ourselves deep within the heart of British Columbia. The country is gorgeous, the people are incredibly nice, and we reek like homeless people (no Planet Fitnesses in this part of Canada means we haven’t showered since the last blog post… yummy)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chaosindivide.com/assets/images/blog/04232017s.jpg" /></entry></feed>
+&lt;p&gt;Thanks for reading. As I said, this post will be occasionally updated. Check back every now and then!&lt;/p&gt;</content><author><name>entro</name></author><category term="roadtrip" /><summary type="html">Hello again! For the few of you that actually regularly keep up with this blog, you’ll know that this post with somewhat deviate from my usual format… but I hope you’ll bear with me: I’m going to review some hot springs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.chaosindivide.com/assets/images/blog/04302017s.jpg" /></entry></feed>
