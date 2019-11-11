@@ -1,0 +1,179 @@
+<!doctype html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!---<title>Folk Heroes - GUNS!</title>--->
+
+  <link rel="stylesheet" href=/assets/css/skeleton.css>
+<link rel="stylesheet" href=/assets/css/normalize.css>
+<link rel="stylesheet" href=/assets/css/styles.css>
+<link rel="stylesheet" href=/assets/css/footer.css>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/css?family=Major+Mono+Display|Oswald" rel="stylesheet">
+
+    <link type="application/atom+xml" rel="alternate" href="https://www.chaosindivide.com/feed.xml" title="CHAOS IN DIVIDE" />
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Folk Heroes - GUNS! | CHAOS IN DIVIDE</title>
+<meta name="generator" content="Jekyll v3.8.6" />
+<meta property="og:title" content="Folk Heroes - GUNS!" />
+<meta name="author" content="vidya" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Things are starting to get more interesting…" />
+<meta property="og:description" content="Things are starting to get more interesting…" />
+<link rel="canonical" href="https://www.chaosindivide.com/blog/2019/11/03" />
+<meta property="og:url" content="https://www.chaosindivide.com/blog/2019/11/03" />
+<meta property="og:site_name" content="CHAOS IN DIVIDE" />
+<meta property="og:image" content="https://www.chaosindivide.com/assets/images/heroes/bloggun.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-11-03T00:00:00-04:00" />
+<script type="application/ld+json">
+{"url":"https://www.chaosindivide.com/blog/2019/11/03","headline":"Folk Heroes - GUNS!","dateModified":"2019-11-03T00:00:00-04:00","datePublished":"2019-11-03T00:00:00-04:00","author":{"@type":"Person","name":"vidya"},"description":"Things are starting to get more interesting…","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.chaosindivide.com/blog/2019/11/03"},"image":"https://www.chaosindivide.com/assets/images/heroes/bloggun.png","@type":"BlogPosting","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    
+
+  <script src="/assets/javascript/menu-bars.js"></script>
+
+  
+
+
+    <link href="https://www.chaosindivide.com/../assets/css/blogpost.css" rel="stylesheet">
+
+
+  <link rel="icon" type="image/png" href=/assets/images/favicon.png>
+  <meta name="description" content="Things are starting to get more interesting…">
+
+  <link rel="canonical" href="https://www.chaosindivide.com/blog/2019/11/03">
+  <link rel="alternate" type="application/rss+xml" title="CHAOS IN DIVIDE" href="https://www.chaosindivide.com/feed.xml">
+</head>
+
+  <body>
+    <nav id="nav">
+  	<form action="javascript:void(0);" class="icon" onclick="menuBars()">
+  		<i class="fa fa-bars"></i>
+  	</form>
+  
+    <form action="/"  class="nav-btn"><button type="submit">Home</button></form>
+  
+    <form action="/who.html"  class="nav-btn"><button type="submit">About</button></form>
+  
+    <form action="/blog/"  class="nav-btn"><button type="submit">Blog</button></form>
+  
+</nav>
+    <div class="page-container">
+      <div class="wrapper">
+        <div class="logo-container"><div class="image-cropper"><img class="logo" src=/assets/images/logo.png></div></div>
+        <h1>Folk Heroes - GUNS!</h1>
+
+<p>
+  03 Nov 2019
+  
+  
+    - <a href="/authors/vidya.html">vidya</a>
+  
+</p>
+
+<p>Things are starting to get more interesting…</p>
+
+<p>I’ve yet to play a farming simulator with very fleshed out combat. Stardew has the mine and the monster farm, but the combat is a little… unexciting. Well, nothing spices things up like a rocket launcher, right?!</p>
+
+<p><img src="https://www.chaosindivide.com/assets/images/heroes/rokkits.gif" alt="" class="blog-img" /></p>
+<p class="quotes text-line">For this gif, the rockets are utilizing a tile-based targeting, which I didn't love--more on that in <a href="https://www.chaosindivide.com/blog/2019/10/29">my last post.</a></p>
+
+<p>Implementing ranged attacks was a little interesting. I had already setup an animation-based system for attacks and the instantiation of Effects based on the item used. But each of those Effects was taking place at the target point of the player’s mouseclick! Now I had a new form of implementation: creating a moving Projectile object whose Effects would take place only when the object collided with something (or reached its end-of-life).</p>
+
+<p>Now, instantiating the Projectile, giving it its starting rotation and velocity, etc. were all things I was pretty familiar with from my last foray into Folk Heroes (as well as another, much earlier game project I haven’t really gone into on my site, BLOKK THE BRAVE). I decided to make a ProjectileSpawnEffect class that inherited from Effect. When a item fires off its Effects, I wanted to leave the possibility for a Projectile-spawning item to do effects at its own location (for example, a magic effect that both fires a laser at a target and emits a shockwave from the user). This makes it easy to simply mix in ProjectileSpawnEffects into the list of an item’s Effects–and even different Projectiles can be fired from one use!</p>
+
+<p>Pretty pleased with how it turned out! Also had a lot of fun making the sprites for the muzzle flashes/explosions. I really don’t mention it enough, but pixel art is a whole lot of fun!! Animating especially.</p>
+
+<p><img src="https://www.chaosindivide.com/assets/images/heroes/gunsblood.gif" alt="" class="blog-img" /></p>
+<p class="quotes text-line">I also started experimenting with Unity's Particle Emitter component and created this very Tarantino-esque blood splatter. Kickass!&lt;/a&gt;</p>
+
+<p>Up next? Toning down the violence and returning to a bit of farming: planting and growing!!</p>
+
+
+<div class="page-nav">
+  
+  <div class="page-nav-prev">
+    <a class="prev" href="/blog/2019/10/29">
+      <p class="page-nav-date">&laquo;&nbsp;Oct 29th, 2019</p>
+      <p class="page-nav-title">Folk Heroes - Chopping & Smashing</p>
+      <p class="page-nav-arrow">&laquo;</p>
+    </a>
+  </div>
+  
+  
+  <div class="page-nav-next">
+    <a class="next" href="/blog/2019/11/06">
+      <p class="page-nav-date">Nov 6th, 2019&nbsp;&raquo;</p>
+      <p class="page-nav-title">Folk Heroes - Farming & Growing</p>
+      <p class="page-nav-arrow">&raquo;</p>
+    </a>
+  </div>
+  
+</div>
+      </div>
+      <footer class="site-footer">
+
+  <div class="wrapper foot-wrapper">
+
+    <div class="footer-col-wrapper quotes">
+      <div class="footer-middle-col">
+        <div class="footer-col footer-col-1">
+          <ul class="contact-list">
+            
+            <li>
+              <a class="social-entry" href="mailto:entro@chaosindivide.com"><span class="icon icon--email"><i class="fa fa-envelope" aria-hidden="true"></i></span><span class="username">entro@chaosindivide.com</span></a>
+            </li>
+            
+          </ul>
+        </div>
+
+        <div class="footer-col footer-col-2">
+          <ul class="social-media-list">
+            
+            <li>
+              <a class ="social-entry"  href="https://soundcloud.com/seizer"><span class="icon icon--soundcloud"><i class="fa fa-soundcloud" aria-hidden="true"></i></span><span class="username">seizer</span></a>
+            </li>
+            
+            
+            <li>
+              <a class ="social-entry" href="https://github.com/McWenker"><span class="icon icon--github"><i class="fa fa-github" aria-hidden="true"></i></span><span class="username">McWenker</span></a>
+
+            </li>
+            
+
+            
+            <li>
+              <a class ="social-entry" href="https://twitter.com/entrodi"><span class="icon icon--twitter"><i class="fa fa-twitter-square" aria-hidden="true"></i></span><span class="username">entrodi</span></a>
+
+            </li>
+            
+
+            
+            <li>
+              <a class ="social-entry"  href="https://instagram.com/chaos.in.divide"><span class="icon icon--instagram"><i class="fa fa-instagram" aria-hidden="true"></i></span><span class="username">chaos.in.divide</span></a>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+
+      
+      <div class="footer-col footer-col-3">
+        <h5 class="footer-heading">CHAOS IN DIVIDE</h2>
+        <p>In Entropy, Find Peace.</p>
+      </div>
+      
+    </div>
+
+  </div>
+
+</footer>
+
+    </div>
+  </body>
+</html>

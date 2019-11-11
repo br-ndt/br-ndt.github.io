@@ -113,6 +113,9 @@ img.logo {
 .tabcontent {
   display: none; }
 
+.about-tabcontent-list, .about-tabcontent-list-item ul {
+  padding-inline-start: 0px; }
+
 li.about-tabcontent-list-item, li.heroes-tabcontent-list-item {
   padding: 5px 10px 5px 10px; }
 
@@ -147,6 +150,27 @@ li.about-tabcontent-list-item, li.heroes-tabcontent-list-item {
 
 .about-tabcontent-iframe-wrapper iframe {
   border: 0; }
+
+.gallery-wrapper {
+  position: relative; }
+
+.gallery-button-display-left {
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  transform: translate(0%, -50%); }
+
+.gallery-button-display-right {
+  position: absolute;
+  top: 50%;
+  right: 0%;
+  transform: translate(0%, -50%); }
+
+.gallery .gallery-image {
+  margin: 0 auto;
+  height: 340px;
+  object-fit: cover;
+  max-width: 100%; }
 
 .about-tabcontent-list-item ul {
   font-family: monospace; }
@@ -243,7 +267,10 @@ li.heroes-ability p {
     margin: 5px 20vw 0px 20vw; }
 
   .about-tabs button, .heroes-tabs button {
-    margin: 3px auto 2px auto; } }
+    margin: 3px auto 2px auto; }
+
+  .about-tabcontent-list, .about-tabcontent-list-item ul {
+    padding-inline-start: 40px; } }
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
   .image-cropper {

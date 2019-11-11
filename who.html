@@ -13,10 +13,11 @@
 <link rel="stylesheet" href=/assets/css/footer.css>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link href="https://fonts.googleapis.com/css?family=Major+Mono+Display|Oswald" rel="stylesheet">
+
     <link type="application/atom+xml" rel="alternate" href="https://www.chaosindivide.com/feed.xml" title="CHAOS IN DIVIDE" />
-    <!-- Begin Jekyll SEO tag v2.5.0 -->
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>CHAOS IN DIVIDE | In Entropy, Find Peace.</title>
-<meta name="generator" content="Jekyll v3.8.5" />
+<meta name="generator" content="Jekyll v3.8.6" />
 <meta property="og:title" content="CHAOS IN DIVIDE" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="In Entropy, Find Peace." />
@@ -25,7 +26,7 @@
 <meta property="og:url" content="https://www.chaosindivide.com/who.html" />
 <meta property="og:site_name" content="CHAOS IN DIVIDE" />
 <script type="application/ld+json">
-{"headline":"CHAOS IN DIVIDE","description":"In Entropy, Find Peace.","@type":"WebPage","url":"https://www.chaosindivide.com/who.html","@context":"http://schema.org"}</script>
+{"url":"https://www.chaosindivide.com/who.html","headline":"CHAOS IN DIVIDE","description":"In Entropy, Find Peace.","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     
@@ -34,6 +35,8 @@
 
   
     <script src="https://www.chaosindivide.com/assets/javascript/about-tabs.js"></script>
+
+    <script src="https://www.chaosindivide.com/assets/javascript/gallery.js"></script>
 
 
 
@@ -79,13 +82,21 @@
 				<li class="about-tabcontent-list-item">
 					<h4>Folk Heroes</h4>
 					<h5 class="about-tabcontent-list-corp">Indie Game</h5>
-					<ul><li class="about-tabcontent-iframe-wrapper">
-	<img src="/assets/images/AIswarm.gif" style="position:absolute;top:0;left:0;width:100%;height:100%; border:0px" />
+					<ul><li class="gallery-wrapper">
+	<button class="gallery-button-display-left" onclick="plusDivs(-1, 'heroes')">&#10094;</button>
+	<button class="gallery-button-display-right" onclick="plusDivs(+1, 'heroes')">&#10095;</button>
+	<div class="gallery">
+		<img class="gallery-image heroes" src="/assets/images/heroes/mainloop.gif" style="display: block;" />
+		<img class="gallery-image heroes" src="/assets/images/heroes/taporhold.gif" style="display: none;" />
+		<img class="gallery-image heroes" src="/assets/images/heroes/newlook.gif" style="display: none;" />
+		<img class="gallery-image heroes" src="/assets/images/heroes/daycycle.gif" style="display: none;" />
+		<img class="gallery-image heroes" src="/assets/images/heroes/hammerhold.gif" style="display: none;" />
+	</div>
 </li>
 <li><p>Folk Heroes is a game I'm independently developing in the Unity Engine.</p></li>
-<li><p>Currently all code, assets, and writing are my own.</p></li>
+<li><p>Currently all code, assets, artwork, and writing are my own.</p></li>
 <li><p>With it, I hope to capture some of the basebuilding fun of classic games like Stronghold or Age of Empires, while blending it with a bullet-hell RPG.</p></li>
-<li><p>Largely a learning project, I hope to have a playable demo sometime in 2019.</p></li>
+<li><p>Largely a learning project, I hope to have a playable demo sometime in 2020.</p></li>
 <li><p>Check out the <a href="https://github.com/McWenker/Folk-Heroes" target="_blank">GitHub repository</a> for updates and source code.</p></li>
 </ul>
 				</li>
@@ -93,11 +104,17 @@
 				<li class="about-tabcontent-list-item">
 					<h4>SteamHeart</h4>
 					<h5 class="about-tabcontent-list-corp">Indie Game</h5>
-					<ul><li class="about-tabcontent-iframe-wrapper"><iframe src="https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FFjCzUyicfNXRxmiLihtKe5tqocW2%2Fcontent%2Ffef8cab1-d84a-22f3-5e73-b31a69505c01&amp;imagePath=screens/15.png" style="position:absolute;top:0;left:0;width:100%;height:100%; border:0px"></iframe></li>
+					<ul><li class="gallery-wrapper">
+	<button class="gallery-button-display-left" onclick="plusDivs(-1, 'steamheart')">&#10094;</button>
+	<button class="gallery-button-display-right" onclick="plusDivs(+1, 'steamheart')">&#10095;</button>
+	<div class="gallery">
+		<img class="gallery-image steamheart" src="/assets/images/steamheart/AIitemsabilities.gif" style="display: block;" />
+		<img class="gallery-image steamheart" src="/assets/images/steamheart/skilltree_alpha.gif" style="display: none;" />
+	</div>
+</li>
 <li><p>SteamHeart is another independent game project of mine, also developed in the Unity Engine.</p></li>
-<li><p>It was aimed at recreating some of the classic Tactics RPGs of yore (Final Fantasy Tactics, Tactics Ogre, Fire Emblem, etc) and, hopefully, bringing it into the modern era with procedurally generated maps, expansive class tree, and more.</p></li>
-<li><p>WARNING: the demo is extremely buggy</p></li>
-<li><p>Development is currently halted, while I work on Folk Heroes (and a dozen other things).</p></li>
+<li><p>It's aimed at recreating some of the classic Tactics RPGs of yore (Final Fantasy Tactics, Tactics Ogre, Fire Emblem, etc) and, hopefully, bringing it into the modern era with procedurally generated maps, expansive class tree, and more.</p></li>
+<li><p>Development is currently on hold while I work on Folk Heroes (and my skills in software architecture).</p></li>
 <li><p><a href="https://github.com/McWenker/Steamheart" target="_blank">GitHub repository</a> here.</p></li>
 </ul>
 				</li>
@@ -140,33 +157,34 @@
 				</li>
 				
 				<li class="about-tabcontent-list-item">
-					<h4>Engineering</h4>
+					<h4>Software Engineering</h4>
 					<h5 class="about-tabcontent-list-date">10 years</h5>
 					<h5 class="about-tabcontent-list-corp"></h5>
-					<ul><li><p>C#, C++, Python are my longest-studied programming languages.</p></li>
+					<ul><li><p>Predominantely selftaught; C#, C++, Python are my longest-studied programming languages.</p></li>
 <li><p>I have also dabbled in C, Java, and JavaScript.</p></li>
-<li><p>Computer Science education from Providence College and UMass Amherst, graduated with a Minor in Information Technologies (and a Major in Political Science).</p></li>
-<li><p>Self-taught the Unity Engine scripting library 'MonoBehaviour' and have since designed a number of games. More on that in the <a href="#" onclick="openAbout(event, 'Projects')">"Projects"</a> tab.</p></li>
+<li><p>I received minor Computer Science education during my time at Providence College and UMass Amherst (where I received a Minor in Information Technologies).</p></li>
+<li><p>Self-taught the Unity Engine scripting library 'MonoBehaviour' and have since devolped a number of games within Unity. More on that in the <a href="#" onclick="openAbout(event, 'Projects')">"Projects"</a> tab.</p></li>
 </ul>
 				</li>
 				
 				<li class="about-tabcontent-list-item">
 					<h4>Audio Production</h4>
-					<h5 class="about-tabcontent-list-date">9 years</h5>
+					<h5 class="about-tabcontent-list-date">10 years</h5>
 					<h5 class="about-tabcontent-list-corp"></h5>
 					<ul><li><p>Experience with sampling, recording, editing, gain-staging, and mixing.</p></li>
-<li><p><a href="https://seizerbeats.bandcamp.com" target="_blank">Self-taught experience</a> as well as time spent interning at professional recording studios.</p></li>
+<li><p><a href="https://audius.co/szrbeats" target="_blank">Self-taught experience</a> as well as time spent interning at professional recording studios.</p></li>
 <li><p>Also a <a href="https://soundcloud.com/seizer" target="_blank">music composer myself</a>; I'm always creating new soundscapes, drum loops, melodies, and more.</p></li>
+<li><p>This is largely a hobby pursuit, but I do occasionally release <a href="https://seizerbeats.bandcamp.com" target="_blank">albums and EPs.</a></p></li>
 </ul>
 				</li>
 				
 				<li class="about-tabcontent-list-item">
 					<h4>Creative and Copy Writing</h4>
-					<h5 class="about-tabcontent-list-date">9 years</h5>
+					<h5 class="about-tabcontent-list-date">10 years</h5>
 					<h5 class="about-tabcontent-list-corp"></h5>
 					<ul><li><p>I have consistently written (and read) in my spare time for over 15 years, in addition to a long career of liberal education.</p></li>
 <li><p>As a teacher of English, I am a 'grammatacist' and lover of the language.</p></li>
-<li><p>Stories, poems, and D&amp;D campaigns are all common works. Expect to see more of those here.</p></li>
+<li><p>Stories, poems, and D&amp;D campaigns are all common works. I hope to digitize more of those here.</p></li>
 </ul>
 				</li>
 				
@@ -179,12 +197,13 @@
 				
 				<li class="about-tabcontent-list-item">
 					<h4>Webmaster</h4>
-					<h5 class="about-tabcontent-list-date">February 2018 - Current</h5>
-					<h5 class="about-tabcontent-list-corp">Jewish Historical Society of Western Massachusetts</h5>
+					<h5 class="about-tabcontent-list-date">Feb 2018 - Current</h5>
+					<h5 class="about-tabcontent-list-corp"><a href="http://jhswm.org/" target="_blank">Jewish Historical Society of Western Massachusetts</a></h5>
 					<ul>
 						<li><p>Advised and educated JHSWM boardmembers about industry standards for web development.</p></li>
 <li><p>Designed and developed static WordPress site in order to digital archive efforts.</p></li>
 <li><p>Assisted in digital archiving, such as video editing, scanning, photo manipulation, and more.</p></li>
+<li><p>Photoshop, Premiere, and WordPress used daily, HTML5/CSS used infrequently.</p></li>
 
 					</ul>
 				</li>
@@ -192,12 +211,13 @@
 				
 				<li class="about-tabcontent-list-item">
 					<h4>Teacher of English Foreign Language</h4>
-					<h5 class="about-tabcontent-list-date">Sep 2017 - Current</h5>
+					<h5 class="about-tabcontent-list-date">Sep 2017 - Nov 2019</h5>
 					<h5 class="about-tabcontent-list-corp">VIPKID HK</h5>
 					<ul>
 						<li><p>Developed lesson plans based on individual student's age, aptitude, and experience.</p></li>
 <li><p>Instructed students in proper grammar, pronunciation, and acquisition of vocabulary.</p></li>
 <li><p>Reviewed student progress with both employer and guardian.</p></li>
+<li><p>Recipient of over 1,000 "5-Apple" feedback ratings, averaging a perfect 5/5 rating!</p></li>
 
 					</ul>
 				</li>
@@ -207,8 +227,8 @@
 				
 				<li class="about-tabcontent-list-item">
 					<h4>Operations Manager</h4>
-					<h5 class="about-tabcontent-list-date">Jan 2016 - Sep 2016</h5>
-					<h5 class="about-tabcontent-list-corp">TattooNOW.com</h5>
+					<h5 class="about-tabcontent-list-date">Aug 2015 - Sep 2016</h5>
+					<h5 class="about-tabcontent-list-corp">TattooNOW.com (now closed)</h5>
 					<ul>
 						<li><p>Developed and maintained websites using a proprietary framework of Adobe ColdFusion.</p></li>
 <li><p>Maintained project status between sales, design, and media teams.</p></li>
@@ -221,7 +241,7 @@
 				
 				<li class="about-tabcontent-list-item">
 					<h4>Office Supervisor</h4>
-					<h5 class="about-tabcontent-list-date">Aug 2015 - Dec 2015</h5>
+					<h5 class="about-tabcontent-list-date">Apr 2015 - Sep 2015</h5>
 					<h5 class="about-tabcontent-list-corp">DL Exports, LLC</h5>
 					<ul>
 						<li><p>Designed maintained a static website for an export compliance consultancy.</p></li>
