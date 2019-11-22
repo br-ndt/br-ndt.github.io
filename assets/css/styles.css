@@ -125,6 +125,15 @@ li.about-tabcontent-list-item, li.heroes-tabcontent-list-item {
 .about-tabcontent-list-item h4 {
   margin: 2px; }
 
+.heroes-tabcontent-list-item-left {
+  float: left;
+  padding-right: 10px;
+  min-width: 155px;
+  max-width: 180px; }
+
+.heroes-tabcontent-list-item-right {
+  min-height: 300px; }
+
 .heroes-tabcontent-list-item h4 {
   font-size: -webkit-xxx-large; }
 
