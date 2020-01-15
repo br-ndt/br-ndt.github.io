@@ -60,7 +60,6 @@ nav .current button:hover {
   height: 60px;
   position: relative;
   overflow: hidden;
-  border-radius: 50%;
   margin: 0 auto; }
 
 img.logo {
