@@ -1,0 +1,49 @@
+.social-title {
+  text-align: center; }
+
+.social-col-wrapper {
+  max-width: 40vw;
+  margin: auto; }
+
+.social-middle-col {
+  line-height: 30px; }
+
+.social-col {
+  display: inline-block; }
+
+.social-col ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 auto; }
+
+ul.social-media-list {
+  display: block; }
+
+social .icon {
+  width: 30px;
+  float: left;
+  margin-left: 10px;
+  margin-right: -2px; }
+
+.social-entry {
+  display: inline-flex;
+  margin-right: 7px; }
+
+.social-entry .icon svg, .social-entry .icon i {
+  width: 30px;
+  height: 30px;
+  color: #373737; }
+
+@media (max-width: 750px) {
+  social .icon {
+    float: unset;
+    margin-left: 0;
+    margin-right: 0; } }
+/* Larger than tablet */
+@media (min-width: 750px) {
+  .social-col {
+    z-index: 5; } }
+/* Midrange for blog items */
+@media (min-width: 870px) {
+  ul.social-media-list {
+    display: inline-flex; } }

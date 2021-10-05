@@ -56,8 +56,8 @@ nav .current button:hover {
   padding: 10px; }
 
 .image-cropper {
-  width: 60px;
-  height: 60px;
+  width: 30px;
+  height: 30px;
   position: relative;
   overflow: hidden;
   margin: 0 auto; }
@@ -268,8 +268,8 @@ li.heroes-ability p {
     display: inline-block; }
 
   .image-cropper {
-    width: 80px;
-    height: 80px; }
+    width: 40px;
+    height: 40px; }
 
   .wrapper {
     margin: 5px 20vw 0px 20vw; }
@@ -282,8 +282,8 @@ li.heroes-ability p {
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
   .image-cropper {
-    width: 110px;
-    height: 110px; } }
+    width: 55px;
+    height: 55px; } }
 @media (max-width: 750px) {
   .wrapper {
     z-index: 3; } }
@@ -293,13 +293,13 @@ li.heroes-ability p {
     z-index: 0; }
 
   .image-cropper {
-    width: 150px;
-    height: 150px; }
+    width: 75px;
+    height: 75px; }
 
   .social-entry {
     z-index: 10; } }
 /* Larger than desktop */
 @media (min-width: 1000px) {
   .image-cropper {
-    width: 200px;
-    height: 200px; } }
+    width: 100px;
+    height: 100px; } }
