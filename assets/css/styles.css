@@ -49,15 +49,15 @@ nav .current button:hover {
 .wrapper {
   padding-bottom: 5px;
   transition: 0.3s;
-  margin: 5px 3vw 0px 3vw;
+  margin: 10vh 3vw 0px 3vw;
   position: relative; }
 
 .logo-container {
   padding: 10px; }
 
 .image-cropper {
-  width: 60px;
-  height: 60px;
+  width: 30px;
+  height: 30px;
   position: relative;
   overflow: hidden;
   margin: 0 auto; }
@@ -202,7 +202,6 @@ li.heroes-tabcontent-list-item p {
 img.heroes-ability-img {
   max-height: 80px;
   float: left;
-  display: inline-block;
   padding: 5px 10px 5px 5px; }
 
 .heroes-ability h6 {
@@ -268,11 +267,11 @@ li.heroes-ability p {
     display: inline-block; }
 
   .image-cropper {
-    width: 80px;
-    height: 80px; }
+    width: 84px;
+    height: 84px; }
 
   .wrapper {
-    margin: 5px 20vw 0px 20vw; }
+    margin: 10vh 20vw 0px 20vw; }
 
   .about-tabs button, .heroes-tabs button {
     margin: 3px auto 2px auto; }
